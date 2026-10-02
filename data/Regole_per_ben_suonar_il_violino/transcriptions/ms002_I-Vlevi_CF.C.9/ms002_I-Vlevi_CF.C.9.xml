@@ -3843,12 +3843,12 @@
                <lb facs="#facs_7_l_11" n="009"/>Sono di due sorti in genere: discendenti, e ascendenti; cioè segnate
                <lb facs="#facs_7_l_12" n="010"/>ò sopra la nota vera dell’armonia, più alte, ò acute per tuono, e 
                <lb facs="#facs_7_l_13" n="011"/>semituono; ò sotto la nota vera dell’armonia; più basse, ò gravi per
-               <lb facs="#facs_7_l_14" n="012"/>tuono, e semituono.</p>
+               <lb facs="#facs_7_l_14" n="012"/>tuono, e semituono.
             <notatedMusic facs="#facs_7_r_3">
                   <graphic url="example.xml"/>
-               </notatedMusic>
-               <milestone unit="text_region" facs="#facs_7_r_4"/>
-               <p><lb facs="#facs_7_l_16" n="001"/>Si parlarà prima delle discendenti, come più naturali, e secondo
+            </notatedMusic></p>
+               <p><milestone unit="text_region" facs="#facs_7_r_4"/>
+               <lb facs="#facs_7_l_16" n="001"/>Si parlarà prima delle discendenti, come più naturali, e secondo
                <lb facs="#facs_7_l_17" n="002"/>il vero genio dell’appoggiatura.</p>
             <pb facs="#facs_8" n="8" xml:id="img_0008"/>
          </div>
@@ -3860,12 +3860,12 @@
                <milestone unit="text_region" facs="#facs_9_r_1"/>
                <lb facs="#facs_9_l_1" n="001"/>Le Appoggiature sono di due sorti per il loro valore: appoggiatura lunga,
                <lb facs="#facs_9_l_2" n="002"/>ò sia sostentata, appoggiatura breve, ò sia di passaggio. L’appoggia<lb facs="#facs_9_l_3" n="003" break="no" rend="-"/>tura lunga deve valere la metà della nota, a cui è appoggiata
-               <lb facs="#facs_9_l_4" n="004"/>(secondo la sua semplicità, e natura.)</p>
+               <lb facs="#facs_9_l_4" n="004"/>(secondo la sua semplicità, e natura.)
             <notatedMusic facs="#facs_9_r_2">
                   <graphic url="example.xml"/>
-               </notatedMusic>
-               <milestone unit="text_region" facs="#facs_9_r_3"/>
-               <p><lb facs="#facs_9_l_5" n="001"/>La differenza della 
+               </notatedMusic></p>
+               <p><milestone unit="text_region" facs="#facs_9_r_3"/>
+               <lb facs="#facs_9_l_5" n="001"/>La differenza della 
                espressio<lb facs="#facs_9_l_6" n="002" break="no" rend="="/>ne in questo caso non è 
                <lb facs="#facs_9_l_7" n="003"/>il valore, ch’è eguale; ma
                <lb facs="#facs_9_l_8" n="004"/>il modo dell’arcata, ò sia della voce; perchè se fosse nota, la prima
@@ -3877,17 +3877,17 @@
                <lb facs="#facs_9_l_14" n="010"/>non sino al punto preciso della nota, a cui è appoggiata, ma sino
                <lb facs="#facs_9_l_15" n="011"/>alla metà del valore dell’appoggiatura: cadendo con dolcezza, e 
                mino<lb facs="#facs_9_l_16" n="012" break="no" rend="-"/>ratione di forza di arcata, o di voce alla nota, a cui è appoggiata.
-               <lb facs="#facs_9_l_17" n="013"/>Molto più, perchè doppo l’appoggiatura naturalm.te succede il trillo alla nota.</p>
+               <lb facs="#facs_9_l_17" n="013"/>Molto più, perchè doppo l’appoggiatura naturalm.te succede il trillo alla nota.
             <notatedMusic facs="#facs_9_r_4">
                   <graphic url="example.xml"/>
-               </notatedMusic>
-               <milestone unit="text_region" facs="#facs_9_r_5"/>
-               <p><lb facs="#facs_9_l_18" n="001"/>Se poi la nota avesse il punto, cosichè il suo valore in tempo ordinario
-               <lb facs="#facs_9_l_19" n="002"/>fosse di tre note (numero impari in genere;) allora il valore dell’<lb facs="#facs_9_l_20" n="003" break="no"/>appoggiatura è di due terzi, il valore della nota di un terzo solo.</p>
+               </notatedMusic></p>
+               <p><milestone unit="text_region" facs="#facs_9_r_5"/>
+               <lb facs="#facs_9_l_18" n="001"/>Se poi la nota avesse il punto, cosichè il suo valore in tempo ordinario
+               <lb facs="#facs_9_l_19" n="002"/>fosse di tre note (numero impari in genere;) allora il valore dell’<lb facs="#facs_9_l_20" n="003" break="no"/>appoggiatura è di due terzi, il valore della nota di un terzo solo.
             <pb facs="#facs_10" n="10" xml:id="img_0010"/>
                <notatedMusic facs="#facs_10_r">
                   <graphic url="example.xml"/>
-               </notatedMusic> 
+               </notatedMusic></p> 
          </div>
          <div>
             <head facs="#facs_10_r_1">
@@ -3900,17 +3900,17 @@
                <lb facs="#facs_10_l_4" n="003"/>vale due quarti; o che vaglia tre crome, cioè semiminime col punto in 
                <lb facs="#facs_10_l_5" n="004"/>tripola di ¾. Il sito naturale nel tempo ordinario è il principio della
                <lb facs="#facs_10_l_6" n="005"/>battuta, e il mezzo della battuta; cioè il battere, e il levare. In tripola
-               <lb facs="#facs_10_l_7" n="006"/>è sempre la prima nota della battuta.</p>
+               <lb facs="#facs_10_l_7" n="006"/>è sempre la prima nota della battuta.
             <notatedMusic facs="#facs_10_r_3">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p>
                <p><milestone unit="text_region" facs="#facs_10_r_4"/>
                <lb facs="#facs_10_l_8" n="001"/>Da ciò si rileva, che date note eguali per serie, le appoggiarue lunghe naturalm.te
                <lb facs="#facs_10_l_9" n="002"/>non hanno luoco, se non con pregiudizio del sentimento scritto. E ciò è vero
-               <lb facs="#facs_10_l_10" n="003"/>in qualunque valore di note, e in qualunque tempo.</p>
+               <lb facs="#facs_10_l_10" n="003"/>in qualunque valore di note, e in qualunque tempo.
             <notatedMusic facs="#facs_10_r_5">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p>
                <p><milestone unit="text_region" facs="#facs_10_r_6"/>
                <lb facs="#facs_10_l_11" n="001"/>Così a proportione in qualunque
                <lb facs="#facs_10_l_12" n="002"/>caso. Dunque se il Compositore
@@ -3929,10 +3929,10 @@
                <lb facs="#facs_11_l_5" n="002"/>sempre vero in prattica, che il loro luoco naturale è in note ineguali,
                <lb facs="#facs_11_l_6" n="003"/>la prima delle quali sia più lunga delle susseguenti, e sia ò nel battere,
                <lb facs="#facs_11_l_7" n="004"/>ò nel levare della battuta di tempo ordinario; o nel battere della 
-               <lb facs="#facs_11_l_8" n="005"/>tripola.</p>
+               <lb facs="#facs_11_l_8" n="005"/>tripola.
             <notatedMusic facs="#facs_11_r_3">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p>
                <p><milestone unit="text_region" facs="#facs_11_r_4"/>
                <lb facs="#facs_11_l_9" n="001"/>L’effetto di questa tal sorte di appoggiature è di ridurre la espressione
                <lb facs="#facs_11_l_10" n="002"/>a nobiltà, e natura cantabile; cosichè abbia vero luoco in 
@@ -3958,10 +3958,10 @@
                <lb facs="#facs_12_l_12" n="002"/>sempre più la nota, che l’appoggiatura; e però la forza dell’ar<lb facs="#facs_12_l_13" n="003" break="no" rend="-"/>cata, ò sia della voce deve cader immediatam.te sopra la 
                no<lb facs="#facs_12_l_14" n="004" break="no" rend="-"/>ta: non mai sopra l’appoggiatura. Il loro valore è 
                indetermina<lb facs="#facs_12_l_15" n="005" break="no" rend="-"/>to, perchè dato l’esempio in crome, pare, che l’appoggiatura
-               <lb facs="#facs_12_l_16" n="006"/>vaglia apresso a poco la metà.</p>
+               <lb facs="#facs_12_l_16" n="006"/>vaglia apresso a poco la metà.
             <notatedMusic facs="#facs_12_r_3">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p>
                <p><milestone unit="text_region" facs="#facs_12_r_4"/>
                <lb facs="#facs_12_l_17" n="001"/>Ma non è vero altrim.ti, che questa possa esser regola, perchè dato lo
                <lb facs="#facs_12_l_18" n="002"/>stesso esempio in semiminime, l’appoggiatura non valerà mai
@@ -3974,10 +3974,10 @@
                <lb facs="#facs_13_l" n="001"/>Anzi per il contrario (quando si voglia l’ottimo effetto) più la nota è lunga,
                <lb facs="#facs_13_l_1" n="002"/>più dee esser breve l’appoggiatura di passaggio; cosichè date le 
                mini<lb facs="#facs_13_l_2" n="003" break="no" rend="-"/>me per esempio, sia vero che l’appoggiatura debba esser tanto veloce,
-               <lb facs="#facs_13_l_3" n="004"/>che apena si senta.</p>
+               <lb facs="#facs_13_l_3" n="004"/>che apena si senta.
             <notatedMusic facs="#facs_13_r_2">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p>
                <p><milestone unit="text_region" facs="#facs_13_r_3"/>
                <lb facs="#facs_13_l_4" n="001"/>Questo procede dall’accento lungo, ò sia forza, che cade sempre più 
                so<lb facs="#facs_13_l_5" n="002" break="no" rend="-"/>pra la prima nota delle meze battute, che sopra la nota de 
@@ -4003,7 +4003,7 @@
                semimini<lb facs="#facs_14_l_1" n="002" break="no" rend="-"/>ma, e croma in tutti li due tempi, ordinario, e di tripola.
             <notatedMusic facs="#facs_14_r_1">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p><p>
                <milestone unit="text_region" facs="#facs_14_r_2"/>
                <lb facs="#facs_14_l_2" n="001"/>L’effetto di questa tal sorte di appoggiature è di ridurre la espressione a
                <lb facs="#facs_14_l_3" n="002"/>vivacità, e brio; e però non devono aver luoco in gravi 
@@ -4014,7 +4014,7 @@
                <lb facs="#facs_14_l_8" n="007"/>essecutione.
             <notatedMusic facs="#facs_14_r_3">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p><p>
                <milestone unit="text_region" facs="#facs_14_r_4"/>
                <lb facs="#facs_14_l_9" n="001"/>Qualche volta si adoprano ascendendo le appoggiature di passaggio, ma
                <lb facs="#facs_14_l_10" n="002"/>ascendendo per scala.
@@ -4047,7 +4047,7 @@
                <lb facs="#facs_15_l_10" n="004"/>sua risolutione.
             <notatedMusic facs="#facs_15_r_5">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p><p>
                <pb facs="#facs_16" n="16" xml:id="img_0016"/>
                <milestone unit="text_region" facs="#facs_16_r"/>
                <lb facs="#facs_16_l" n="001"/>Da questo procede, che non si possa dare appoggiatura ascendente semplice, ma
@@ -4060,7 +4060,7 @@
                discen<lb facs="#facs_16_l_4" n="002" break="no" rend="-"/>dendo.
             <notatedMusic facs="#facs_16_r_3">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p><p>
                <milestone unit="text_region" facs="#facs_16_r_4"/>
                <lb facs="#facs_16_l_5" n="001"/>Per provare, che le appoggiature ascendenti siano contro natura, si formi
                <lb facs="#facs_16_l_6" n="002"/>un progresso di salti di terza in sù, e si empiano le terze con l’appog<lb facs="#facs_16_l_7" n="003" break="no" rend="-"/>giatura ascendente di passaggio, come si empiono li salti di terza 
@@ -4070,7 +4070,7 @@
                </notatedMusic>
                <notatedMusic facs="#facs_16_r_6">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p><p>
                <pb facs="#facs_17" n="17" xml:id="img_0017"/>
                <milestone unit="text_region" facs="#facs_17_r"/>
                <lb facs="#facs_17_l" n="001"/>Vi sono poi appoggiature di salto, quali ò ascendenti, ò discendenti, sono sempre
@@ -4081,9 +4081,8 @@
                   <graphic url="example.xml"/>
                </notatedMusic>
                <milestone unit="text_region" facs="#facs_17_r_2"/>
-               <lb facs="#facs_17_l_5" n="001"/>Si deducono sempre dall’unisono della nota antecedente.
-            <pb facs="#facs_18" n="18" xml:id="img_0018"/>
-            </p>
+               <lb facs="#facs_17_l_5" n="001"/>Si deducono sempre dall’unisono della nota antecedente.</p>
+            <pb facs="#facs_18" n="18" xml:id="img_0018"/>           
          </div>
          <div>
             <head facs="#facs_19_r">
@@ -4093,7 +4092,7 @@
                <milestone unit="text_region" facs="#facs_19_r_1"/>
                <lb facs="#facs_19_l" n="001"/>Il trillo è ottima cosa, e perfetto ornamento nella musica, ma con la stessa
                <lb facs="#facs_19_l_2" n="002"/>riserva, che si fà per il sale nelle vivande. Il troppo, e il poco le guasta.
-               <lb facs="#facs_19_l_3" n="003"/>E non si deve usare in tutti li cibi.
+               <lb facs="#facs_19_l_3" n="003"/>E non si deve usare in tutti li cibi. </p><p>
             <milestone unit="text_region" facs="#facs_19_r_2"/>
                <lb facs="#facs_19_l_4" n="001"/>Due trilli vi sono in genere, e nulla più. Trillo di tuono, e trillo di semituono.
             <milestone unit="text_region" facs="#facs_19_r_3"/>
@@ -4109,9 +4108,9 @@
                   <graphic url="example.xml"/>
                </notatedMusic>
                <milestone unit="text_region" facs="#facs_19_r_4"/>
-               <lb facs="#facs_19_l_8" n="001"/>E questo è il trillo delle cadenze, e de tuoni di terza minore.
+               <lb facs="#facs_19_l_8" n="001"/>E questo è il trillo delle cadenze, e de tuoni di terza minore.</p><p>
                <lb facs="#facs_19_l_9" n="002"/>Il mecanismo del trillo si è di tener forte il dito della nota, ò sia base del
-               <lb facs="#facs_19_l_10" n="003"/>trillo; e leggiero il dito, che deve trillare.
+               <lb facs="#facs_19_l_10" n="003"/>trillo; e leggiero il dito, che deve trillare. </p><p>
                <lb facs="#facs_19_l_11" n="004"/>Quando il trillo eccede il tuono, o manca dal semituono, è sempre vitioso, e 
                <lb facs="#facs_19_l_12" n="005"/>cattivo. E solam.te in tutta la musica vi è l’unico caso, in cui è lecito
                <lb facs="#facs_19_l_13" n="006"/>in qualche modo il trillo eccedente il tuono, et è il caso del seguente
@@ -4131,7 +4130,7 @@
                <milestone unit="text_region" facs="#facs_20_r"/>
                <lb facs="#facs_20_l" n="001"/>e molto meglio adoprare sopra la nota medesima ò un modo naturale, ò
                <lb facs="#facs_20_l_1" n="002"/>un modo artificiale per evitar apunto quel trillo, che seben è 
-               ragione<lb facs="#facs_20_l_2" n="003" break="no" rend="-"/>vole, offende nondimeno l’udito; ne può mai riuscire di buon gusto.
+               ragione<lb facs="#facs_20_l_2" n="003" break="no" rend="-"/>vole, offende nondimeno l’udito; ne può mai riuscire di buon gusto. </p><p>
                <lb facs="#facs_20_l_3" n="004"/>Li modi del trillo sono molti per diversi rispetti, Primieram.te in rispetto alla
                <lb facs="#facs_20_l_4" n="005"/>velocità maggiore, ò minore.
             <notatedMusic facs="#facs_20_r_1">
@@ -4144,7 +4143,7 @@
                <lb facs="#facs_20_l_8" n="004"/>È necessaria ad un buon essecutore la prattica, e il possesso di tutti questi
                <lb facs="#facs_20_l_9" n="005"/>gradi di trillo, perche è veriss.mo, che il trillo di un allegro sfacciato 
                ardi<lb facs="#facs_20_l_10" n="006" break="no" rend="-"/>to non dev’esser il trillo d’un grave, ò un andante malinconico; il trillo
-               <lb facs="#facs_20_l_11" n="007"/>del cantino non dev’esser il trillo della quarta corda; &amp;.
+               <lb facs="#facs_20_l_11" n="007"/>del cantino non dev’esser il trillo della quarta corda; &amp;. </p><p>
                <lb facs="#facs_20_l_12" n="008"/>Molto più è necessaria, perchè secondo altri modi di trillo è necessario il 
                pos<lb facs="#facs_20_l_13" n="009" break="no" rend="-"/>sesso di questi gradi differenti. Per esempio in una nota di cadenza
                <lb facs="#facs_20_l_14" n="010"/>(che non è legata a battuta) l’ottio de trilli è quello, che comincia dal
@@ -4152,7 +4151,7 @@
                <lb facs="#facs_20_l_16" n="012"/>grado.
             <notatedMusic facs="#facs_20_r_3">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p><p>
                <pb facs="#facs_21" n="21" xml:id="img_0021"/>
                <milestone unit="text_region" facs="#facs_21_r"/>
                <lb facs="#facs_21_l" n="001"/>Il principio del trillo hà parimenti li suoi modi diversi. Si può cominciare
@@ -4164,20 +4163,20 @@
                </notatedMusic>
                <notatedMusic facs="#facs_21_r_2">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p><p>
                <milestone unit="text_region" facs="#facs_21_r_3"/>
                <lb facs="#facs_21_l_7" n="001"/>Il fine del trillo hà parimenti li suoi modi diversi. Li più communi, e
                <lb facs="#facs_21_l_8" n="002"/>naturali sono due, e sono li posti ne due esempi seguenti.
             <notatedMusic facs="#facs_21_r_4">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p><p>
                <milestone unit="text_region" facs="#facs_21_r_5"/>
                <lb facs="#facs_21_l_9" n="001"/>Vi è un'altro modo artificiale; et è il seguente.
             <notatedMusic facs="#facs_21_r_6">
                   <graphic url="example.xml"/>
                </notatedMusic>
                <milestone unit="text_region" facs="#facs_21_r_7"/>
-               <lb facs="#facs_21_l_10" n="001"/>Et altri simili artificiali. 
+               <lb facs="#facs_21_l_10" n="001"/>Et altri simili artificiali. </p><p>
             <milestone unit="text_region" facs="#facs_21_r_8"/>
                <lb facs="#facs_21_l_11" n="001"/>Ne nostri tempi si usa un trillo portato immediatam.te all’ottava alta; segue
                <lb facs="#facs_21_l_13" n="002"/>l’esempio.
@@ -4188,7 +4187,7 @@
                <lb facs="#facs_21_l_12" n="001"/>Questo modo non è di natura;
             <milestone unit="text_region" facs="#facs_21_r_11"/>
                <lb facs="#facs_21_l_14" n="001"/>è modo di arte, e di arte piuttosto cattiva, che buona; perche 
-               ri<lb facs="#facs_21_l_15" n="002" break="no" rend="-"/>pugna alla natura.
+               ri<lb facs="#facs_21_l_15" n="002" break="no" rend="-"/>pugna alla natura. </p><p>
             <milestone unit="text_region" facs="#facs_21_r_12"/>
                <lb facs="#facs_21_l_16" n="001"/>Vi sono finalm.te altri modi di trillo rispetto al piano, e al forte. Perché come
                <lb facs="#facs_21_l_17" n="002"/>da un cantante, e da un suonatore si fà con la voce, e con l’arco una
@@ -4201,7 +4200,7 @@
                <lb facs="#facs_22_l_4" n="005"/>alla voce, ò al suono.
             <notatedMusic facs="#facs_22_r_1">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p><p>
                <milestone unit="text_region" facs="#facs_22_r_2"/>
                <lb facs="#facs_22_l_6" n="001"/>Vi sono poi altri modi di trillo dedotti dal portamento della voce per scala 
                ascen<lb facs="#facs_22_l_7" n="002" break="no" rend="-"/>dente, e discendente.
@@ -4230,7 +4229,7 @@
                </notatedMusic>
                <milestone unit="text_region" facs="#facs_22_r_11"/>
                <lb facs="#facs_22_l_16" n="001"/>Questo modo hà il suo ottimo effetto nelle scale; non lo hà eguale ne
-               <lb facs="#facs_22_l_17" n="002"/>salti.
+               <lb facs="#facs_22_l_17" n="002"/>salti. </p><p>
                <lb facs="#facs_22_l_18" n="003"/>Vi è finalm.te una specie di trillo, che da Suonatori può essere ottimamente
                <lb facs="#facs_22_l_19" n="004"/>essequita.
                <lb facs="#facs_22_l_20" n="005"/>La nota di sopra (che è la nota precisa del trillo) si congiunga con la nota
@@ -4254,7 +4253,7 @@
                <lb facs="#facs_23_l_9" n="002"/>ò sospesa, porta trillo alla nota antecedente. 
             <notatedMusic facs="#facs_23_r_3">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p><p>
                <milestone unit="text_region" facs="#facs_23_r_4"/>
                <lb facs="#facs_23_l_11" n="001"/>È però vero, che il trillo delle cadenze finali (terminanti il senso, ò
                <lb facs="#facs_23_l_12" n="002"/>periodo della Compositione) devono avere una specie di trillo;
@@ -4263,7 +4262,7 @@
                <lb facs="#facs_23_l_15" n="005"/>spiegato di sopra; e il trillo delle cadenze sospese, ò intermedie dev’<lb facs="#facs_23_l_16" n="006" break="no"/>esser espresso con tre note nel modo seguente
             <notatedMusic facs="#facs_23_r_5 #facs_24_r">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p><p>
                <pb facs="#facs_24" n="24" xml:id="img_0024"/>
                <milestone unit="text_region" facs="#facs_24_r_1"/>
                <lb facs="#facs_24_l" n="001"/>Quando il tempo è sufficiente, alle tre note suddette (cioè alle due note,
@@ -4282,7 +4281,7 @@
                   <graphic url="example.xml"/>
                </notatedMusic>
                <milestone unit="text_region" facs="#facs_24_r_5"/>
-               <lb facs="#facs_24_l_8" n="001"/>In tal caso non vi si aggiunge mai l’appoggiatura.
+               <lb facs="#facs_24_l_8" n="001"/>In tal caso non vi si aggiunge mai l’appoggiatura. </p><p>
                <lb facs="#facs_24_l_9" n="002"/>Vi sono poi altre infinite addattationi del trillo e in rispetto al cantabile, e in 
                <lb facs="#facs_24_l_10" n="003"/>rispetto al suonabile. È impossibile dare tutti gli esempi particolari, e
                <lb facs="#facs_24_l_11" n="004"/>solam.te si daranno poche regole in generale. Si osservi in primo 
@@ -4298,7 +4297,7 @@
                <lb facs="#facs_25_l_1" n="002"/>della stessa battuta.
                <lb facs="#facs_25_l_2" n="003"/>Ma dato per esempio il trillo alla prima nota,<notatedMusic type="missing"/> ch’è fuori della battuta, di
                <lb facs="#facs_25_l_3" n="004"/>necessario conseguenza il trillo cade sopra la seconda, e la quarta
-               <lb facs="#facs_25_l_4" n="005"/>dentro la battuta. Questa legge di eguaglianza abbraccia infiniti casi.
+               <lb facs="#facs_25_l_4" n="005"/>dentro la battuta. </p><p>Questa legge di eguaglianza abbraccia infiniti casi.
                <lb facs="#facs_25_l_5" n="006"/>Date due note legate in principio di quarti, ò ottavi di battuta, il trillo
                <lb facs="#facs_25_l_6" n="007"/>cade sopra la prima delle due.
             <notatedMusic facs="#facs_25_r_1">
@@ -4345,7 +4344,7 @@
                <lb facs="#facs_26_l_6" n="002"/>seconda.
             <notatedMusic facs="#facs_26_r_6">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p><p>
                <milestone unit="text_region" facs="#facs_26_r_7"/>
                <lb facs="#facs_26_l_7" n="001"/>Avertimento generale si è di fuggire, et evitare il trillo nel principiare 
                qualun<lb facs="#facs_26_l_8" n="002" break="no" rend="-"/>que cantilena; e di evitare due trilli sopra due note consecutive,
@@ -4373,7 +4372,7 @@
                on<lb facs="#facs_27_l_5" n="004" break="no" rend="-"/>deggiamento procede dal tremore delle piccole parti componenti 
                <lb facs="#facs_27_l_6" n="005"/>il metallo, e alla continuatione delle vibrationi della corda 
                dop<lb facs="#facs_27_l_7" n="006" break="no" rend="-"/>po la sua percossa ò dell’arco ne strumenti di arco, ò del 
-               sal<lb facs="#facs_27_l_8" n="007" break="no" rend="-"/>tarello ne cembali. Ad imitatione di questo effetto si fà artificialm.te 
+               sal<lb facs="#facs_27_l_8" n="007" break="no" rend="-"/>tarello ne cembali. </p><p>Ad imitatione di questo effetto si fà artificialm.te 
                <lb facs="#facs_27_l_9" n="008"/>sopra il violino, viola, violoncello &amp;. questo tremolio con il dito,
                <lb facs="#facs_27_l_10" n="009"/>che stà sopra la corda: imprimendo il tremore al dito con la forza 
                <lb facs="#facs_27_l_11" n="010"/>del polso, senza che il dito abbandoni la corda; alzando però un 
@@ -4394,7 +4393,7 @@
                </notatedMusic>
                <notatedMusic facs="#facs_27_r_6">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p><p>
                <pb facs="#facs_28" n="28" xml:id="img_0028"/>
                <milestone unit="text_region" facs="#facs_28_r"/>
                <lb facs="#facs_28_l" n="001"/>Questo modo è escluso affatto dalle messe di voce, nelle quali perfettamente si
@@ -4403,7 +4402,7 @@
                <lb facs="#facs_28_l_3" n="004"/>intonatione della nota, inalterabilm.te, dev’esser quella identica 
                nel<lb facs="#facs_28_l_4" n="005" break="no" rend="-"/>la messa di voce. Il che è incompatibile co’l tremolio, ò sia 
                ondeg<lb facs="#facs_28_l_5" n="006" break="no" rend="-"/>giamento della voce, in cui la intonatione non è mai nel suo 
-               pun<lb facs="#facs_28_l_6" n="007" break="no" rend="-"/>to fisso, ma ò eccede, ò manca; seben insensibilmente.
+               pun<lb facs="#facs_28_l_6" n="007" break="no" rend="-"/>to fisso, ma ò eccede, ò manca; seben insensibilmente. </p><p>
             <milestone unit="text_region" facs="#facs_28_r_1"/>
                <lb facs="#facs_28_l_7" n="001"/>Questo modo hà ottimo effetto nell’ultima nota di qualunque cadenza, che
                <lb facs="#facs_28_l_8" n="002"/>sia nota ferma, e lunga; e fà bene per il suono, e per il canto. 
@@ -4422,7 +4421,7 @@
                <lb facs="#facs_28_l_17" n="003"/>col numero 2; e il piano sopra la prima segnata col numero 1. è <w>re
             <pb facs="#facs_29" n="29" xml:id="img_0029"/>
                <milestone unit="text_region" facs="#facs_29_r"/>
-               <lb facs="#facs_29_l" n="001" break="no" rend="-"/>gola</w> generale.
+               <lb facs="#facs_29_l" n="001" break="no" rend="-"/>gola</w> generale. </p><p>
             <milestone unit="text_region" facs="#facs_29_r_1"/>
                <lb facs="#facs_29_l_1" n="001"/>Hà finalmente ottimo effetto a due corde di nota ferma nel modo
                <lb facs="#facs_29_l_2" n="002"/>seguente.
@@ -4457,7 +4456,7 @@
                <milestone unit="text_region" facs="#facs_31_r_4"/>
                <lb facs="#facs_31_l_7" n="001"/>Il modo discendente del primo esempio è più naturale, e fà miglior effetto
                <lb facs="#facs_31_l_8" n="002"/>del secondo modo ascendente per quello stesso principio, e ragione,
-               <lb facs="#facs_31_l_9" n="003"/>per cui l’appoggiatura discendente fa miglior effetto della ascendente.
+               <lb facs="#facs_31_l_9" n="003"/>per cui l’appoggiatura discendente fa miglior effetto della ascendente. </p><p>
                <lb facs="#facs_31_l_10" n="004"/>La espressione migliore consiste nella maggior velocità della 
                esse<lb facs="#facs_31_l_11" n="005" break="no" rend="-"/>cutione delle tre note aggiunte, e consiste in tal modo, che quando
                <lb facs="#facs_31_l_12" n="006"/>non siano fatte velocissimam.te, il mordente non è più mordente,
@@ -4476,7 +4475,7 @@
             <pb facs="#facs_32" n="32" xml:id="img_0032"/>
                <milestone unit="text_region" facs="#facs_32_r"/>
                <lb facs="#facs_32_l" n="001"/>la nota scritta della cantilena; cosiché le tre note aggiunte siano nel piano, e
-               <lb facs="#facs_32_l_1" n="002"/>la nota scritta nel forte della voce, ò suono.
+               <lb facs="#facs_32_l_1" n="002"/>la nota scritta nel forte della voce, ò suono. </p><p>
             <milestone unit="text_region" facs="#facs_32_r_1"/>
                <lb facs="#facs_32_l_2" n="001"/>Il luoco della di lui addattatione è facile a rilevarsi, perché il mordente è
                <lb facs="#facs_32_l_3" n="002"/>una specie di accento, e di percussione, a cagione del forte, che deve
@@ -4507,7 +4506,7 @@
                <lb facs="#facs_33_l_1" n="002"/>nota antecedente ascende verso la conseguente, l’appoggiatua 
                res<lb facs="#facs_33_l_2" n="003" break="no" rend="-"/>ta ascendente. Così egualm.te succede ne mordenti rispetto a due 
                mo<lb facs="#facs_33_l_3" n="004" break="no" rend="-"/>di ascendente, e discendente; si deve riflettere alla nota 
-               anteceden<lb facs="#facs_33_l_4" n="005" break="no" rend="-"/>te, e così non si potrà fallare.
+               anteceden<lb facs="#facs_33_l_4" n="005" break="no" rend="-"/>te, e così non si potrà fallare. </p><p>
             <milestone unit="text_region" facs="#facs_33_r_1"/>
                <lb facs="#facs_33_l_5" n="001"/>Si deve evitare il mordente nelle note della cantilena, che sono isolate,
                <lb facs="#facs_33_l_6" n="002"/>e separate nel senso dalla battuta.
@@ -4527,7 +4526,7 @@
                <lb facs="#facs_33_l_11" n="002"/>di natura di accento, sarà incompatibile con quelle note, che cadono
                <lb facs="#facs_33_l_12" n="003"/>fuori dell’accento; com’è appunto l’esempio sopraccennato, in cui la
                <lb facs="#facs_33_l_13" n="004"/>prima nota (fuori della battuta) è certam.te fuori dell’accento, ò sia
-               <lb facs="#facs_33_l_14" n="005"/>percussione.
+               <lb facs="#facs_33_l_14" n="005"/>percussione. </p><p>
             <milestone unit="text_region" facs="#facs_33_r_6"/>
                <lb facs="#facs_33_l_15" n="001"/>Vi è un’altra specie di mordente, che si deduce dalla stessa nota scritta
                <lb facs="#facs_33_l_16" n="002"/>ribbattendola velocem.te con lo stesso dito in tal modo, che apparisce un
@@ -4577,7 +4576,7 @@
                comin<lb facs="#facs_35_l_13" n="007" break="no" rend="-"/>cia la impresa di raccogliere, e notare que’ pochi, che sono stati
                <lb facs="#facs_35_l_14" n="008"/>avvertiti; e chi avrà diligenza e attentione, potrà 
                raccoglier<lb facs="#facs_35_l_15" n="009" break="no" rend="-"/>ne, e notarne di non ancora avvertiti, e perfettionare la 
-               im<lb facs="#facs_35_l_16" n="010" break="no" rend="-"/>presa.
+               im<lb facs="#facs_35_l_16" n="010" break="no" rend="-"/>presa. </p><p>
             <milestone unit="text_region" facs="#facs_35_r_3"/>
                <lb facs="#facs_35_l_17" n="001"/>Primieram.te dunque si noti, ch’essendo questi modi insegnati dalla 
                natu<lb facs="#facs_35_l_18" n="002" break="no" rend="-"/>ra stessa, bisogna avvertire inseparabilm.te non solo il modo,
@@ -4592,7 +4591,7 @@
                <lb facs="#facs_36_l_1" n="002"/>in cui da tali persone sarà stato addattato. Però necessariamente
                <lb facs="#facs_36_l_2" n="003"/>bisogna spiegare in primo luoco certi siti di cantilena (secondo la 
                na<lb facs="#facs_36_l_3" n="004" break="no" rend="-"/>tura stessa), ne quali cadono a meraviglia, e frequentemente 
-               ques<lb facs="#facs_36_l_4" n="005" break="no" rend="-"/>ti modi naturali. Questi siti dunque sono quelli in precisione, che
+               ques<lb facs="#facs_36_l_4" n="005" break="no" rend="-"/>ti modi naturali. </p><p>Questi siti dunque sono quelli in precisione, che
                <lb facs="#facs_36_l_5" n="006"/>da compositori si chiamano cadenze, ò moti di cadenza, e ciò
                <lb facs="#facs_36_l_6" n="007"/>in genere, ma non basta. Perchè in specie sono quelle cadenze, ò
                <lb facs="#facs_36_l_7" n="008"/>moti di cadenza, che non sono le finali, ò siano ultime cadenze
@@ -4607,7 +4606,7 @@
                <lb facs="#facs_36_l_19" n="001"/>Suo Basso, ch’è sempre cadenza autentica.
             <notatedMusic facs="#facs_36_r_3">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p><p>
                <milestone unit="text_region" facs="#facs_36_r_4"/>
                <lb facs="#facs_36_l_12" n="001"/>Sopra lo stesso basso di cadenza autentica vi sono moltissimi modi di 
                can<lb facs="#facs_36_l_13" n="002" break="no" rend="-"/>tilena espressi in altre note differenti dalle due date per esempio,
@@ -4632,7 +4631,7 @@
                </notatedMusic>
                <notatedMusic facs="#facs_38_r_1">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p><p>
                <milestone unit="text_region" facs="#facs_38_r_2"/>
                <lb facs="#facs_38_l" n="001"/>Questi sono apresso a poco tutti li moti di cantilena in parte acuta, 
                qua<lb facs="#facs_38_l_1" n="002" break="no" rend="-"/>li formano una specie di cadenza, ò sia moto di cadenza, che
@@ -4645,7 +4644,7 @@
                <milestone unit="text_region" facs="#facs_39_r"/>
                <lb facs="#facs_39_l" n="001"/>nostra cantilena, e come il punto fermo; e non si fà se non in due
                <lb facs="#facs_39_l_1" n="002"/>note, come si è dato l’esempio, ne ricchiede se non il trillo alla
-               <lb facs="#facs_39_l_2" n="003"/>prima delle due note, come si è insegnato nell’uso del trillo. Ma
+               <lb facs="#facs_39_l_2" n="003"/>prima delle due note, come si è insegnato nell’uso del trillo. </p><p>Ma
                <lb facs="#facs_39_l_3" n="004"/>tutti li moti di cantilena espressi nelli dati esempi di bassi 
                diver<lb facs="#facs_39_l_4" n="005" break="no" rend="-"/>si, sono eguali a que’ periodi, ò sensi, che non portano mai punto
                <lb facs="#facs_39_l_5" n="006"/>fermo. Ma ò punto, e virgola, ò due punti &amp;; e si vuol dire,
@@ -4663,10 +4662,10 @@
                <pb facs="#facs_40" n="40" xml:id="img_0040"/>
                <notatedMusic facs="#facs_40_r">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p><p><!-- paragraphs division unclear! -->
                <milestone unit="text_region" facs="#facs_40_r_1"/>
                <lb facs="#facs_40_l" n="001"/>Finimenti di cadenze medie, ò sospese, non terminanti la cantilena nella 
-               ul<lb facs="#facs_40_l_1" n="002" break="no" rend="-"/>tima nota.
+                     ul<lb facs="#facs_40_l_1" n="002" break="no" rend="-"/>tima nota.<!-- unclear why bold in docx -->
             <notatedMusic facs="#facs_40_r_2">
                   <graphic url="example.xml"/>
                </notatedMusic>
@@ -4677,12 +4676,12 @@
                <milestone unit="text_region" facs="#facs_41_r_3"/>
                <lb facs="#facs_41_l" n="001"/>Si avverta che nella prima nota del basso può cadere <notatedMusic type="inline" facs="#facs_41_r_1">
                   <graphic url="example.xml"/>
-               </notatedMusic>. Ma questo nulla im[porta]
+               </notatedMusic>. Ma questo nulla im<supplied>porta</supplied>
                <lb facs="#facs_41_l_1" n="002"/>nelli esempi suddetti, ne quali il modo cade sopra la seconda
             <pb facs="#facs_42" n="42" xml:id="img_0042"/>
                <milestone unit="text_region" facs="#facs_42_r"/>
                <lb facs="#facs_42_l" n="001"/>Finimenti di cadenze medie, ò sospese, non terminanti la cantilena nella 
-               pri<lb facs="#facs_42_l_1" n="002" break="no" rend="-"/>ma nota
+               pri<lb facs="#facs_42_l_1" n="002" break="no" rend="-"/>ma nota<!-- unclear why bold in docx -->
             <notatedMusic facs="#facs_42_r_1">
                   <graphic url="example.xml"/>
                </notatedMusic>
@@ -4839,21 +4838,21 @@
                <lb facs="#facs_49_l_4" n="004"/>trattare dunque tali modi secondo la loro possibiltà sarebbe vano, e
                <lb facs="#facs_49_l_5" n="005"/>superfluo. Ma nel nostro caso si vogliono intender questi modi 
                arti<lb facs="#facs_49_l_6" n="006" break="no" rend="-"/>ficiali più limitati, e ristretti, perché si vogliono dedotti, e adattati
-               <lb facs="#facs_49_l_7" n="007"/>al solo buon gusto, e alla sola natura cantabile: Di più si vogliono
+               <lb facs="#facs_49_l_7" n="007"/>al solo buon gusto, e alla sola natura cantabile: </p><p>Di più si vogliono
                <lb facs="#facs_49_l_8" n="008"/>altretanto limitati, quantochè si premmette qui una propositione 
                gene<lb facs="#facs_49_l_9" n="009" break="no" rend="-"/>rale, per cui restano esclusi in moltissimi casi. La propositione si è,
                <lb facs="#facs_49_l_10" n="010"/>che li modi artificiali non possono ne devono aver luoco in tutti que’<lb facs="#facs_49_l_11" n="011" break="no"/>casi, ne quali il tema della compositione ò le parti della medesima
                <lb facs="#facs_49_l_12" n="012"/>siano ò a soggetto, ò di tal sentimento specifico che non possa 
                alte<lb facs="#facs_49_l_13" n="013" break="no" rend="-"/>rarsi in modo alcuno, ma debba esprimersi tale quale si trova.
                <lb facs="#facs_49_l_14" n="014"/>Questo caso succede ben spesso, e in consequenza li modi 
-               arti<lb facs="#facs_49_l_15" n="015" break="no" rend="-"/>ficiali del buon gusto restano limitati, e ristretti a pochi luochi.
+               arti<lb facs="#facs_49_l_15" n="015" break="no" rend="-"/>ficiali del buon gusto restano limitati, e ristretti a pochi luochi. </p><p>
                <lb facs="#facs_49_l_16" n="016"/>Questi per lo più si trovano nella prossimità di qualche moto
                <lb facs="#facs_49_l_17" n="017"/>di cadenza; cioè essendo sempre necessarie due note per formare
                <lb facs="#facs_49_l_18" n="018"/>la cadenza, il modo artificiale cade sopra la prima delle due
                <lb facs="#facs_49_l_19" n="019"/>note suddette. Parim.ti si trovano in altri moti delle note 
                fondamen<lb facs="#facs_49_l_20" n="020" break="no" rend="-"/>tali del basso, che non formano cadenza. Quali moti di basso
                <lb facs="#facs_49_l_21" n="021"/>constando parim.ti di due note, come le cadenze, il modo cade
-               <lb facs="#facs_49_l_22" n="022"/>sopra la prima, come ne moti di cadenza. Ciò premmesso, ne
+               <lb facs="#facs_49_l_22" n="022"/>sopra la prima, come ne moti di cadenza. </p><p>Ciò premmesso, ne
                <lb facs="#facs_49_l_23" n="023"/>viene che può darsi una idea generale de modi artificiali nella
             <pb facs="#facs_50" n="50" xml:id="img_0050"/>
                <milestone unit="text_region" facs="#facs_50_r"/>
@@ -4878,7 +4877,7 @@
                   <graphic url="example.xml"/>
                </notatedMusic> perchè
                <lb facs="#facs_50_l_7" n="004"/>con questi soli moti di basso si può formare senso compito nella 
-               can<lb facs="#facs_50_l_8" n="005" break="no" rend="-"/>tilena. Di questi dunque si trattarà in primo luoco, e principalmente
+               can<lb facs="#facs_50_l_8" n="005" break="no" rend="-"/>tilena. </p><p>Di questi dunque si trattarà in primo luoco, e principalmente
                <lb facs="#facs_50_l_9" n="006"/>perchè si vedrà, che li altri moti del basso accennati, sono consequenze,
                <lb facs="#facs_50_l_10" n="007"/>e deduttioni di questi, come principali.
             <milestone unit="text_region" facs="#facs_50_r_11"/>
@@ -4900,7 +4899,7 @@
                <lb facs="#facs_51_l_3" n="003"/>senza quel modo di cantilena, che si chiama cadenza. Ma in oltre
                <lb facs="#facs_51_l_4" n="004"/>in queste, delle quali qui si vuol trattare, vi è di più preciso; cioè,
                <lb facs="#facs_51_l_5" n="005"/>che s’intendono sempre cadenze armoniche, et essequite sempre a
-               <lb facs="#facs_51_l_6" n="006"/>rigore di battuta.
+               <lb facs="#facs_51_l_6" n="006"/>rigore di battuta. </p><p>
             <milestone unit="text_region" facs="#facs_51_r_2"/>
                <lb facs="#facs_51_l_7" n="001"/>L’essemplare in genere della cadenza armonica in parte acuta è il 
                se<lb facs="#facs_51_l_8" n="002" break="no" rend="-"/>guente.
@@ -4914,7 +4913,7 @@
                <lb facs="#facs_51_l_12" n="004"/>nelle due ultime note tutti si risolvono in questo.
             <notatedMusic facs="#facs_51_r_5">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p><p>
                <milestone unit="text_region" facs="#facs_51_r_6"/>
                <lb facs="#facs_51_l_13" n="001"/>Ma in sostanza si può ridurre la cadenza armonica ad esemplare nel
                <lb facs="#facs_51_l_14" n="002"/>basso in tre sole note di prima base, dalle quali si abbia idea 
@@ -4931,7 +4930,7 @@
                </notatedMusic>
                <notatedMusic facs="#facs_52_r_2 #facs_53_r">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p><p>
                <pb facs="#facs_53" n="53" xml:id="img_0053"/>
                <milestone unit="text_region" facs="#facs_53_r_1"/>
                <lb facs="#facs_53_l" n="001"/>Tutti questi modi di cadenza servono parim.ti al basso <notatedMusic type="inline" facs="#facs_53_r_2">
@@ -4945,7 +4944,7 @@
                com<lb facs="#facs_53_l_3" n="003" break="no" rend="-"/>positioni poi si trovano composti di crome nel modo seguente.
             <notatedMusic facs="#facs_53_r_6">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p><p>
                <milestone unit="text_region" facs="#facs_53_r_7"/>
                <lb facs="#facs_53_l_4" n="001"/>Questa diversità nulla importa per li modi soprassegnati di cadenze,
                <lb facs="#facs_53_l_5" n="002"/>quali si potranno usare e sopra il basso semplice, e sopra il composto:
@@ -4959,7 +4958,7 @@
                <pb facs="#facs_54" n="54" xml:id="img_0054"/>
                <notatedMusic facs="#facs_54_r">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p><p>
                <milestone unit="text_region" facs="#facs_54_r_1"/>
                <lb facs="#facs_54_l" n="001"/>Altre cadenze sono ancora più composte a cagione di maggior moto 
                del<lb facs="#facs_54_l_1" n="002" break="no" rend="-"/>le prime basi nel basso.
@@ -4990,7 +4989,7 @@
                <lb facs="#facs_56_l_6" n="007"/>infinite maniere.
             <notatedMusic facs="#facs_56_r_3 #facs_57_r">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p><p>
                <pb facs="#facs_57" n="57" xml:id="img_0057"/>
                <milestone unit="text_region" facs="#facs_57_r_1"/>
                <lb facs="#facs_57_l" n="001"/>Li esempi sopraposti sono per la maggior parte dedotti immediatamente
@@ -5006,7 +5005,7 @@
                <milestone unit="text_region" facs="#facs_58_r_1"/>
                <lb facs="#facs_58_l" n="001"/>Parim.ti questa cadenza si può comporre con li modi della prima nota
                <lb facs="#facs_58_l_1" n="002"/>della cadenza prima, e con li modi della seconda nota della 
-               ca<lb facs="#facs_58_l_2" n="003" break="no" rend="-"/>denza seconda.
+               ca<lb facs="#facs_58_l_2" n="003" break="no" rend="-"/>denza seconda. </p><p>
             <milestone unit="text_region" facs="#facs_58_r_2"/>
                <lb facs="#facs_58_l_3" n="001"/>Si può dare inoltre, che il basso si trovi in altro modo, come per esempio.
             <notatedMusic facs="#facs_58_r_3">
@@ -5030,7 +5029,7 @@
                <lb facs="#facs_59_l" n="001"/>Il rimanente si formi nel modo suddetto.
             <notatedMusic facs="#facs_59_r_2">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p><p>
                <milestone unit="text_region" facs="#facs_59_r_3"/>
                <lb facs="#facs_59_l_1" n="001"/>Quando sopra questi modi di cadenze si faccia osservatione, e studio, e
                <lb facs="#facs_59_l_2" n="002"/>di questi modi si acquisti possesso prattico, succederà, che si 
@@ -5041,7 +5040,7 @@
                <lb facs="#facs_59_l_7" n="007"/>addattare il modo; mentre que’ modi, che qui per esempio 
                impor<lb facs="#facs_59_l_8" n="008" break="no" rend="-"/>tano un quarto di battuta, possono ridursi a mezza battuta, ad 
                <lb facs="#facs_59_l_9" n="009"/>un ottavo &amp;. secondo il bisogno; e così possono ridursi dal tempo 
-               <lb facs="#facs_59_l_10" n="010"/>ordinario al tempo di tripola.
+               <lb facs="#facs_59_l_10" n="010"/>ordinario al tempo di tripola. </p><p>v
                <lb facs="#facs_59_l_11" n="011"/>Lo stesso si avverta circa il tuono di terza maggiore, e il tuono di terza
                <lb facs="#facs_59_l_12" n="012"/>minore. Le cadenze poste qui per esempi sono tutte in tuono
             <pb facs="#facs_60" n="60" xml:id="img_0060"/>
@@ -5064,13 +5063,13 @@
                <lb facs="#facs_61_l_3" n="003"/>in allegro. In somma qui s’intende la cadenza finale, dove il 
                can<lb facs="#facs_61_l_4" n="004" break="no" rend="-"/>tante, e suonatore si ferma ad arbitrio, e indipendentemente
                <lb facs="#facs_61_l_5" n="005"/>dalla battuta protrae a capriccio, e ad arte la cadenza quanto
-               <lb facs="#facs_61_l_6" n="006"/>vuole, e quanto sà. Però sopra la prima delle due note, che 
-               for<lb facs="#facs_61_l_7" n="007" break="no" rend="-"/>mano la cadenza finale, si fà il segno [corona], quale indica 
+               <lb facs="#facs_61_l_6" n="006"/>vuole, e quanto sà. </p><p>Però sopra la prima delle due note, che 
+               for<lb facs="#facs_61_l_7" n="007" break="no" rend="-"/>mano la cadenza finale, si fà il segno [corona]<!-- find SMUFL-character -->, quale indica 
                liber<lb facs="#facs_61_l_8" n="008" break="no" rend="-"/>tà di fermarsi, quanto si vuole, alla parte principale che sarà il 
                <lb facs="#facs_61_l_9" n="009"/>cantante, ò il suonatore, e in consequenza tutte le sue parti, che 
                ser<lb facs="#facs_61_l_10" n="010" break="no" rend="-"/>vono di accompagnamento a suddetti, hanno nella stessa nota lo
-               <lb facs="#facs_61_l_11" n="011"/>stesso segno [corona], perché tutte devono fermarsi, sino che si ferma
-               <lb facs="#facs_61_l_12" n="012"/>la parte principale.
+                     <lb facs="#facs_61_l_11" n="011"/>stesso segno [corona]<!-- find SMUFL-character -->, perché tutte devono fermarsi, sino che si ferma
+               <lb facs="#facs_61_l_12" n="012"/>la parte principale. </p><p>
             <milestone unit="text_region" facs="#facs_61_r_2"/>
                <lb facs="#facs_61_l_13" n="001"/>Questa sorte di cadenze nel tempo presente è ridotta più a natura di
                <lb facs="#facs_61_l_14" n="002"/>capriccio, che di cadenza, perchè presentem.te qualunque 
@@ -5081,7 +5080,7 @@
                <lb facs="#facs_61_l_19" n="007"/>e che si può comporre di parti affatto tra loro separate, e 
                di<lb facs="#facs_61_l_20" n="008" break="no" rend="-"/>verse di sentimento, e di battuta. Ma comechè li uditori si
                <lb facs="#facs_61_l_21" n="009"/>compiacciono presentem.te di tal cosa, così è necessario 
-               saper<lb facs="#facs_61_l_22" n="010" break="no" rend="-"/>le fare, seben irragionevoli, e disconvenienti.
+               saper<lb facs="#facs_61_l_22" n="010" break="no" rend="-"/>le fare, seben irragionevoli, e disconvenienti. </p><p>
             <pb facs="#facs_62" n="62" xml:id="img_0062"/>
                <milestone unit="text_region" facs="#facs_62_r"/>
                <lb facs="#facs_62_l" n="001"/>Il modo di farle con qualche ragione vi è; e di questo qui si deve trattare.
@@ -5101,7 +5100,7 @@
                <lb facs="#facs_62_l_10" n="010"/>dovendo fermarsi per apparecchiare apunto questa cadenza,
                <lb facs="#facs_62_l_11" n="011"/>non può, ne deve fermarsi nella prima delle due suddette; ma
                <lb facs="#facs_62_l_12" n="012"/>in una diversa da quella, per poi condurvisi alla medesima
-               <lb facs="#facs_62_l_13" n="013"/>con modi artificiali di buon gusto. Indi ne viene, che la prima
+               <lb facs="#facs_62_l_13" n="013"/>con modi artificiali di buon gusto. </p><p>Indi ne viene, che la prima
                <lb facs="#facs_62_l_14" n="014"/>nota ferma non potendo mai essere la nota del trillo (ch’è la
                <lb facs="#facs_62_l_15" n="015"/>prima delle due) <notatedMusic type="inline" facs="#facs_62_r_7">
                   <graphic url="example.xml"/>
@@ -5114,7 +5113,7 @@
                   <graphic url="example.xml"/>
                </notatedMusic>; dunque si conclude necessariam.te, che il 
                <lb facs="#facs_62_l_20" n="020"/>cantante, ò suonatore non potrà, ne dovrà fermarsi mai in
-               <lb facs="#facs_62_l_21" n="021"/>altre note, se non nelle tre suddette.
+               <lb facs="#facs_62_l_21" n="021"/>altre note, se non nelle tre suddette. </p><p>
                <lb facs="#facs_62_l_22" n="022"/>Ciò premmesso, li modi artificiali di buon gusto saranno quelli, che
                <lb facs="#facs_62_l_23" n="023"/>dovranno formare tal sorte di cad.ze Per li Suonatori vi è
             <pb facs="#facs_63" n="63" xml:id="img_0063"/>
@@ -5125,7 +5124,7 @@
                <lb facs="#facs_63_l_3" n="004"/>Ora questi modi artificiali di buon gusto consistono in scale
                <lb facs="#facs_63_l_4" n="005"/>ascendenti, e discendenti, la varietà possibile delle quali è 
                qua<lb facs="#facs_63_l_5" n="006" break="no" rend="-"/>si infinita. Però qui si darà qualche esempio particolare, da
-               <lb facs="#facs_63_l_6" n="007"/>cui si possa vedere la possibilità di altri esempi quasi infiniti.
+               <lb facs="#facs_63_l_6" n="007"/>cui si possa vedere la possibilità di altri esempi quasi infiniti. </p><p>
             <milestone unit="text_region" facs="#facs_63_r_1"/>
                <lb facs="#facs_63_l_7" n="001"/>Sia dunque la prima nota ferma della parte principale Csolfaut.
             <notatedMusic facs="#facs_63_r_2">
@@ -5164,7 +5163,7 @@
                </notatedMusic>
                <notatedMusic facs="#facs_63_r_13">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p><p>
                <pb facs="#facs_64" n="64" xml:id="img_0064"/>
                <milestone unit="text_region" facs="#facs_64_r"/>
                <lb facs="#facs_64_l" n="001"/>Potrà parimenti portarsi alla ottava per le note dell’accompagnamento, quali
@@ -5220,7 +5219,7 @@
                   <graphic url="example.xml"/>
                </notatedMusic>
                <milestone unit="text_region" facs="#facs_64_r_20"/>
-               <lb facs="#facs_64_l_13" n="001"/>&amp;
+               <lb facs="#facs_64_l_13" n="001"/>&amp; </p><p>
             <milestone unit="text_region" facs="#facs_64_r_3"/>
                <lb facs="#facs_64_l_5" n="001"/>Fatta nota ferma ò in C, quando sia scala, ò in C, e in E, quando
                <lb facs="#facs_64_l_6" n="002"/>siano note dell’accompagnamento, si passa in G con altri modi
@@ -5243,7 +5242,7 @@
                <lb facs="#facs_65_l_5" n="003"/>trillo della cadenza 
             <notatedMusic facs="#facs_65_r_6">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p><p>
                <milestone unit="text_region" facs="#facs_65_r_5"/>
                <lb facs="#facs_65_l_6" n="001"/>Lo scheletro sopraccenato è questo
             <notatedMusic facs="#facs_65_r_7">
@@ -5257,13 +5256,13 @@
                </notatedMusic>
                <notatedMusic facs="#facs_65_r_10">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p><p>
                <milestone unit="text_region" facs="#facs_65_r_11"/>
                <lb facs="#facs_65_l_9" n="001"/>Se la prima nota ferma sarà in E, potrà il modo passare in C, 
                co<lb facs="#facs_65_l_10" n="002" break="no" rend="-"/>me l’antecedente, e in E; indi, come l’antecedente.
             <notatedMusic facs="#facs_65_r_12">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p><p>
                <milestone unit="text_region" facs="#facs_65_r_13"/>
                <lb facs="#facs_65_l_11" n="001"/>Se la prima nota ferma sarà in G, oltre il poter passare in C, e in
                <lb facs="#facs_65_l_12" n="002"/>E, come li antecedenti (cominciando sempre il modo ò dal C
@@ -5278,10 +5277,10 @@
                   <graphic url="example.xml"/>
                </notatedMusic>
                <milestone unit="text_region" facs="#facs_66_r_3"/>
-               <lb facs="#facs_66_l_1" n="001"/>eguale allo scheletro terzo.
+               <lb facs="#facs_66_l_1" n="001"/>eguale allo scheletro terzo. </p><p>
             <pb facs="#facs_67" n="67" xml:id="img_0067"/>
                <milestone unit="text_region" facs="#facs_67_r"/>
-               <lb facs="#facs_67_l" n="001"/>Esempi di cadenze fatte ad arbitrio;
+               <lb facs="#facs_67_l" n="001"/>Esempi di cadenze fatte ad arbitrio;<!-- in bold -->
             <notatedMusic facs="#facs_67_r_1">
                   <graphic url="example.xml"/>
                </notatedMusic>
