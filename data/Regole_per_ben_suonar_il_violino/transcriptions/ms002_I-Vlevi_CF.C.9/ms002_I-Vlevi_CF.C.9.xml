@@ -18,6 +18,26 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc/>
+         <encodingDesc>
+               <charDecl xml:id="charDecl">
+                     <!-- Special characters for music -->
+                     <char xml:id="_fermataAbove">
+                           <localProp name="entity" value="fermataAbove"/>
+                           <desc>Fermata above</desc>
+                           <mapping type="smufl">U+E4C0</mapping>
+                           <mapping type="standard">U+1D110</mapping>
+                           <graphic url="https://smufl-browser.edirom.de/E4C0.png"/>
+                           <note>
+                                 <list>
+                                       <head>Classes</head>
+                                       <item>combiningStaffPositions</item>
+                                       <item>pauses</item>
+                                       <item>pausesAbove</item>
+                                 </list>
+                           </note>
+                     </char>
+               </charDecl>
+         </encodingDesc>
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="6336" lry="9504" xml:id="facs_1">
@@ -5064,11 +5084,11 @@
                can<lb facs="#facs_61_l_4" n="004" break="no" rend="-"/>tante, e suonatore si ferma ad arbitrio, e indipendentemente
                <lb facs="#facs_61_l_5" n="005"/>dalla battuta protrae a capriccio, e ad arte la cadenza quanto
                <lb facs="#facs_61_l_6" n="006"/>vuole, e quanto sà. </p><p>Però sopra la prima delle due note, che 
-               for<lb facs="#facs_61_l_7" n="007" break="no" rend="-"/>mano la cadenza finale, si fà il segno [corona]<!-- find SMUFL-character -->, quale indica 
+               for<lb facs="#facs_61_l_7" n="007" break="no" rend="-"/>mano la cadenza finale, si fà il segno <g ref="#_fermataAbove"/><!-- find SMUFL-character -->, quale indica 
                liber<lb facs="#facs_61_l_8" n="008" break="no" rend="-"/>tà di fermarsi, quanto si vuole, alla parte principale che sarà il 
                <lb facs="#facs_61_l_9" n="009"/>cantante, ò il suonatore, e in consequenza tutte le sue parti, che 
                ser<lb facs="#facs_61_l_10" n="010" break="no" rend="-"/>vono di accompagnamento a suddetti, hanno nella stessa nota lo
-                     <lb facs="#facs_61_l_11" n="011"/>stesso segno [corona]<!-- find SMUFL-character -->, perché tutte devono fermarsi, sino che si ferma
+                     <lb facs="#facs_61_l_11" n="011"/>stesso segno <g ref="#_fermataAbove"/><!-- find SMUFL-character -->, perché tutte devono fermarsi, sino che si ferma
                <lb facs="#facs_61_l_12" n="012"/>la parte principale. </p><p>
             <milestone unit="text_region" facs="#facs_61_r_2"/>
                <lb facs="#facs_61_l_13" n="001"/>Questa sorte di cadenze nel tempo presente è ridotta più a natura di
