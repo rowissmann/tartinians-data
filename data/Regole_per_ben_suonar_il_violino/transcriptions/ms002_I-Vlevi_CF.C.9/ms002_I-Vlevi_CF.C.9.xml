@@ -4680,11 +4680,10 @@
                <pb facs="#facs_40" n="40" xml:id="img_0040"/>
                <notatedMusic facs="#facs_40_r">
                   <graphic url="example.xml"/>
-               </notatedMusic></p><p><!-- paragraphs division unclear! -->
-               <milestone unit="text_region" facs="#facs_40_r_1"/>
-               <lb facs="#facs_40_l" n="001"/>Finimenti di cadenze medie, ò sospese, non terminanti la cantilena nella 
-                     ul<lb facs="#facs_40_l_1" n="002" break="no" rend="-"/>tima nota.<!-- unclear why bold in docx -->
-            <notatedMusic facs="#facs_40_r_2">
+               </notatedMusic></p><!-- paragraphs division unclear! -->
+                     <div><head facs="#facs_40_r_1"><lb facs="#facs_40_l" n="001"/>Finimenti di cadenze medie, ò sospese, non terminanti la cantilena nella 
+                     ul<lb facs="#facs_40_l_1" n="002" break="no" rend="-"/>tima nota.</head><!-- unclear why bold in docx -->
+            <p><notatedMusic facs="#facs_40_r_2">
                   <graphic url="example.xml"/>
                </notatedMusic>
                <pb facs="#facs_41" n="41" xml:id="img_0041"/>
@@ -4695,19 +4694,18 @@
                <lb facs="#facs_41_l" n="001"/>Si avverta che nella prima nota del basso può cadere <notatedMusic type="inline" facs="#facs_41_r_1">
                   <graphic url="example.xml"/>
                </notatedMusic>. Ma questo nulla im<supplied>porta</supplied>
-               <lb facs="#facs_41_l_1" n="002"/>nelli esempi suddetti, ne quali il modo cade sopra la seconda
+               <lb facs="#facs_41_l_1" n="002"/>nelli esempi suddetti, ne quali il modo cade sopra la seconda</p></div>
             <pb facs="#facs_42" n="42" xml:id="img_0042"/>
-               <milestone unit="text_region" facs="#facs_42_r"/>
-               <lb facs="#facs_42_l" n="001"/>Finimenti di cadenze medie, ò sospese, non terminanti la cantilena nella 
-               pri<lb facs="#facs_42_l_1" n="002" break="no" rend="-"/>ma nota<!-- unclear why bold in docx -->
-            <notatedMusic facs="#facs_42_r_1">
+               <div><head facs="#facs_42_r"><lb facs="#facs_42_l" n="001"/>Finimenti di cadenze medie, ò sospese, non terminanti la cantilena nella 
+               pri<lb facs="#facs_42_l_1" n="002" break="no" rend="-"/>ma nota</head><!-- unclear why bold in docx -->
+            <p><notatedMusic facs="#facs_42_r_1">
                   <graphic url="example.xml"/>
                </notatedMusic>
                <notatedMusic facs="#facs_42_r_2 #facs_43_r">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p>
                <pb facs="#facs_43" n="43" xml:id="img_0043"/>
-               <milestone unit="text_region" facs="#facs_43_r_1"/>
+               <p><milestone unit="text_region" facs="#facs_43_r_1"/>
                <lb facs="#facs_43_l" n="001"/>Vi sono le dissonanze, quali sono capaci delli suoi modi nella nota 
                an<lb facs="#facs_43_l_1" n="002" break="no" rend="-"/>tecedente, non essendo capaci se non di un solo modo, ò due al
                <lb facs="#facs_43_l_2" n="003"/>più nella nota conseguente.
@@ -4721,7 +4719,7 @@
             <pb facs="#facs_44" n="44" xml:id="img_0044"/>
                <notatedMusic facs="#facs_44_r">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p><p>
                <milestone unit="text_region" facs="#facs_44_r_1"/>
                <lb facs="#facs_44_l" n="001"/>Vi sono poi altri modi naturali addattabili ad altri siti di cantilena, 
                riflet<lb facs="#facs_44_l_1" n="002" break="no" rend="-"/>tendo in primo luoco, che il trillo di tre note è più modo, che trillo,
@@ -4733,7 +4731,7 @@
                <lb facs="#facs_44_l_3" n="001"/>Questo modo hà infinito
                <lb facs="#facs_44_l_4" n="002"/>uso, e luoco in prattica,
                <lb facs="#facs_44_l_5" n="003"/>perche è per scala; e il 
-               <lb facs="#facs_44_l_6" n="004"/>basso è di cadenza. 
+               <lb facs="#facs_44_l_6" n="004"/>basso è di cadenza. </p><p> 
             <milestone unit="text_region" facs="#facs_44_r_4"/>
                <lb facs="#facs_44_l_7" n="001"/>Nelle scale discendenti vi è un modo naturale di ottima espressione.
             <notatedMusic facs="#facs_44_r_5">
@@ -4749,14 +4747,14 @@
                sem<lb facs="#facs_45_l_1" n="002" break="no" rend="-"/>pre modo naturale.
             <notatedMusic facs="#facs_45_r_1">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p><p>
                <milestone unit="text_region" facs="#facs_45_r_2"/>
                <lb facs="#facs_45_l_2" n="001"/>Si avverta che quando il tempo della battuta è largo, ò andante che 
                in<lb facs="#facs_45_l_3" n="002" break="no" rend="-"/>clini al largo, alla ultima nota del trillo delle tre note si aggiunge
                <lb facs="#facs_45_l_4" n="003"/>l’appoggiatura con ottimo effetto
             <notatedMusic facs="#facs_45_r_3">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p><p>
                <milestone unit="text_region" facs="#facs_45_r_4"/>
                <lb facs="#facs_45_l_5" n="001"/>Vi è parim.ti altro sito convenient.mo per addattare un modo 
                sopraccen<lb facs="#facs_45_l_6" n="002" break="no" rend="-"/>nato, quale consiste in tre note
@@ -4793,7 +4791,7 @@
                <lb facs="#facs_46_l_9" n="010"/>prima <notatedMusic type="inline" facs="#facs_46_r_8">
                   <graphic url="example.xml"/>
                </notatedMusic> e si abbreviano le
-               <lb facs="#facs_46_l_10" n="011"/>scritte nella cantilena.
+               <lb facs="#facs_46_l_10" n="011"/>scritte nella cantilena. </p><p>
             <milestone unit="text_region" facs="#facs_46_r_3"/>
                <lb facs="#facs_46_l_11" n="001"/>Vi è un'altro modo espresso in note, come il mordente. Quando le 
                suddet<lb facs="#facs_46_l_12" n="002" break="no" rend="-"/>te note si essequiscono con tutta la velocità, diventano mordente.
@@ -4805,7 +4803,7 @@
                <pb facs="#facs_47" n="47" xml:id="img_0047"/>
                <notatedMusic facs="#facs_47_r">
                   <graphic url="example.xml"/>
-               </notatedMusic>
+               </notatedMusic></p><p>
                <milestone unit="text_region" facs="#facs_47_r_1"/>
                <lb facs="#facs_47_l" n="001"/>Parim.ti vi è un’altro modo aggiunto all’appoggiatura discendente, et è il
                <lb facs="#facs_47_l_1" n="002"/>seguente
@@ -4820,7 +4818,7 @@
             <milestone unit="text_region" facs="#facs_47_r_5"/>
                <lb facs="#facs_47_l_3" n="001"/>Questo è il trillo preciso delle tre note,
                <lb facs="#facs_47_l_4" n="002"/>quale fatto in vece dell’appoggiatura
-               <lb facs="#facs_47_l_5" n="003"/>lunga ascendente, farà sempre miglior effetto dell’appoggiatura.
+               <lb facs="#facs_47_l_5" n="003"/>lunga ascendente, farà sempre miglior effetto dell’appoggiatura. </p><p>
             <milestone unit="text_region" facs="#facs_47_r_6"/>
                <lb facs="#facs_47_l_6" n="001"/>Vi sono altri modi naturali, dedotti dalli già scritti negli esempi delle
                <lb facs="#facs_47_l_7" n="002"/>cadenze medie, ò sospese.
@@ -4831,7 +4829,7 @@
                   <graphic url="example.xml"/>
                </notatedMusic>
                <milestone unit="text_region" facs="#facs_48_r_1"/>
-               <lb facs="#facs_48_l" n="001"/>Ma non è adattabile, se non ascendendo.
+               <lb facs="#facs_48_l" n="001"/>Ma non è adattabile, se non ascendendo. </p><p>
                <lb facs="#facs_48_l_1" n="002"/>E si osservi, e noti distintam.te, che come si sono dati li esempi separati,
                <lb facs="#facs_48_l_2" n="003"/>nella prima, e seconda nota delle cadenze medie, ò sospese, e in 
                <lb facs="#facs_48_l_3" n="004"/>conseguenza congiungendo le due note suddette in un modo solo 
@@ -4841,8 +4839,7 @@
                <lb facs="#facs_48_l_7" n="008"/>facendosene possessori affatto, nella essecuzione verranno fatti molti
                <lb facs="#facs_48_l_8" n="009"/>modi composti, dedotti da que’ primi semplici, in molti altri siti,
                <lb facs="#facs_48_l_9" n="010"/>quali sono insegnati dalla natura stessa; e verranno fatti 
-               natural<lb facs="#facs_48_l_10" n="011" break="no" rend="-"/>m.te senza studio, ò applicatione di arte, e di riflesso.
-            </p>
+               natural<lb facs="#facs_48_l_10" n="011" break="no" rend="-"/>m.te senza studio, ò applicatione di arte, e di riflesso.</p></div>           
          </div>
          <div>
             <head facs="#facs_49_r">
