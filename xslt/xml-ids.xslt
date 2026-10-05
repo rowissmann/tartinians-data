@@ -15,6 +15,8 @@
                       (deeper nesting appends a further _sd### per level)
     p                 xml:id="ms002_I-Vlevi_CF.C.9_d001_p001"       n="1"
                       (id of the nearest enclosing div + _p###)
+    head              xml:id="ms002_I-Vlevi_CF.C.9_d001_h001"       n="1"
+                      (id of the nearest enclosing div + _h###)
     pb                xml:id="ms002_I-Vlevi_CF.C.9_pb001"
                       (existing @n and @facs are kept)
     notatedMusic      xml:id="ms002_I-Vlevi_CF.C.9_m001"            n="1"
@@ -25,8 +27,9 @@
     - Top-level divs, pb and notatedMusic are counted across the whole
       body in document order.
     - Nested divs are counted within their parent div.
-    - p elements are counted within their nearest enclosing div (or within
-      the body if they have no enclosing div).
+    - p and head elements are counted within their nearest enclosing div
+      (or within the body if they have no enclosing div); each element type
+      has its own counter (p001, p002 ... and h001, h002 ...).
     - @n always carries the same running number as the xml:id suffix.
     - Existing @xml:id / @n on these elements are REPLACED (never duplicated).
 
@@ -65,7 +68,7 @@
     <!-- Manual ID prefix. Leave empty ('') to derive the prefix from the
          source file name. Example of a fixed value:
          <xsl:param name="manualPrefix" select="'ms002_I-Vlevi_CF.C.9'"/> -->
-    <xsl:param name="manualPrefix" as="xs:string" select="''"/>
+    <xsl:param name="manualPrefix" as="xs:string" select="'ms002'"/>
 
     <!-- Separator between the parts of an ID. -->
     <xsl:variable name="sep" as="xs:string" select="'_'"/>
@@ -74,6 +77,7 @@
     <xsl:variable name="divMarker"          as="xs:string" select="'d'"/>
     <xsl:variable name="subDivMarker"       as="xs:string" select="'sd'"/>
     <xsl:variable name="pMarker"            as="xs:string" select="'p'"/>
+    <xsl:variable name="headMarker"         as="xs:string" select="'h'"/>
     <xsl:variable name="pbMarker"           as="xs:string" select="'pb'"/>
     <xsl:variable name="notatedMusicMarker" as="xs:string" select="'m'"/>
 
@@ -113,11 +117,14 @@
         match="tei:body//tei:div"
         use="generate-id((ancestor::tei:div[1], ancestor::tei:body[1])[1])"/>
 
-    <!-- Groups every p in the body by its nearest enclosing div (or the body
-         if there is no enclosing div). -->
-    <xsl:key name="psByContainer"
-        match="tei:body//tei:p"
-        use="generate-id((ancestor::tei:div[1], ancestor::tei:body[1])[1])"/>
+    <!-- Groups every p and every head in the body by element name AND by its
+         nearest enclosing div (or the body if there is no enclosing div).
+         The key value looks like "p#d1e123" or "head#d1e123", so p and head
+         are counted separately within the same container. -->
+    <xsl:key name="blocksByContainer"
+        match="tei:body//tei:p | tei:body//tei:head"
+        use="concat(local-name(), '#',
+                    generate-id((ancestor::tei:div[1], ancestor::tei:body[1])[1]))"/>
 
 
     <!-- ====================================================================
@@ -133,7 +140,7 @@
     </xsl:function>
 
     <!-- Returns the container (nearest enclosing div or the body) used for
-         counting a div or p. -->
+         counting a div, p or head. -->
     <xsl:function name="f:container" as="element()">
         <xsl:param name="node" as="element()"/>
         <xsl:sequence select="($node/ancestor::tei:div[1], $node/ancestor::tei:body[1])[1]"/>
@@ -220,22 +227,30 @@
 
 
     <!-- ====================================================================
-         TEMPLATE 3: p ELEMENTS IN THE BODY
+         TEMPLATE 3: p AND head ELEMENTS IN THE BODY
          1. Determine the container (nearest enclosing div, else body).
-         2. Determine the running number of the p within that container.
-         3. Build the ID: <id of container div>_p###
-            (if the p is not inside any div: <prefix>_p###).
-         4. Add xml:id and n, copy all other attributes, process content.
+         2. Choose the marker for the element type: p -> "p", head -> "h".
+         3. Determine the running number of the element within that
+            container, counting only elements of the same type.
+         4. Build the ID: <id of container div>_p### or <id of container
+            div>_h### (if not inside any div: <prefix>_p### / <prefix>_h###).
+         5. Add xml:id and n, copy all other attributes, process content.
+         To handle a further element type in the same way, add it to the
+         match pattern here and in the key "blocksByContainer", and give it
+         a marker in step 2.
          ==================================================================== -->
-    <xsl:template match="tei:body//tei:p">
+    <xsl:template match="tei:body//tei:p | tei:body//tei:head">
         <xsl:variable name="container" as="element()" select="f:container(.)"/>
+        <xsl:variable name="marker" as="xs:string"
+            select="if (self::tei:head) then $headMarker else $pMarker"/>
         <xsl:variable name="num" as="xs:integer"
-            select="f:position-in(., key('psByContainer', generate-id($container)))"/>
+            select="f:position-in(., key('blocksByContainer',
+                        concat(local-name(), '#', generate-id($container))))"/>
         <xsl:variable name="baseId" as="xs:string"
             select="if ($container/self::tei:div) then f:div-id($container) else $idPrefix"/>
         <xsl:copy>
             <xsl:attribute name="xml:id"
-                select="concat($baseId, $sep, $pMarker, format-number($num, $numberFormat))"/>
+                select="concat($baseId, $sep, $marker, format-number($num, $numberFormat))"/>
             <xsl:attribute name="n" select="$num"/>
             <xsl:apply-templates select="@*[not(name() = ('xml:id', 'n'))]"/>
             <xsl:apply-templates select="node()"/>
