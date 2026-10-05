@@ -4680,9 +4680,9 @@
                <pb facs="#facs_40" n="40" xml:id="img_0040"/>
                <notatedMusic facs="#facs_40_r">
                   <graphic url="example.xml"/>
-               </notatedMusic></p><!-- paragraphs division unclear! -->
+               </notatedMusic></p>
                      <div><head facs="#facs_40_r_1"><lb facs="#facs_40_l" n="001"/>Finimenti di cadenze medie, ò sospese, non terminanti la cantilena nella 
-                     ul<lb facs="#facs_40_l_1" n="002" break="no" rend="-"/>tima nota.</head><!-- unclear why bold in docx -->
+                     ul<lb facs="#facs_40_l_1" n="002" break="no" rend="-"/>tima nota.</head>
             <p><notatedMusic facs="#facs_40_r_2">
                   <graphic url="example.xml"/>
                </notatedMusic>
@@ -4697,7 +4697,7 @@
                <lb facs="#facs_41_l_1" n="002"/>nelli esempi suddetti, ne quali il modo cade sopra la seconda</p></div>
             <pb facs="#facs_42" n="42" xml:id="img_0042"/>
                <div><head facs="#facs_42_r"><lb facs="#facs_42_l" n="001"/>Finimenti di cadenze medie, ò sospese, non terminanti la cantilena nella 
-               pri<lb facs="#facs_42_l_1" n="002" break="no" rend="-"/>ma nota</head><!-- unclear why bold in docx -->
+               pri<lb facs="#facs_42_l_1" n="002" break="no" rend="-"/>ma nota</head>
             <p><notatedMusic facs="#facs_42_r_1">
                   <graphic url="example.xml"/>
                </notatedMusic>
