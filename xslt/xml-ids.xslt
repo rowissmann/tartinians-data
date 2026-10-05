@@ -83,7 +83,8 @@
 
     <!-- Number picture: '000' produces three digits with leading zeros
          (1 -> 001). Use e.g. '0000' for four digits. -->
-    <xsl:variable name="numberFormat" as="xs:string" select="'000'"/>
+    <xsl:variable name="numberFormat" as="xs:string" select="'0'"/>
+    <xsl:variable name="musicNumberFormat" as="xs:string" select="'000'"/>
 
     <!-- File extension appended to the notatedMusic ID in ptr/@target. -->
     <xsl:variable name="musicFileExtension" as="xs:string" select="'.xml'"/>
@@ -176,7 +177,7 @@
     <xsl:function name="f:music-id" as="xs:string">
         <xsl:param name="music" as="element(tei:notatedMusic)"/>
         <xsl:sequence select="concat($idPrefix, $sep, $notatedMusicMarker,
-            format-number(f:music-number($music), $numberFormat))"/>
+            format-number(f:music-number($music), $musicNumberFormat))"/>
     </xsl:function>
 
 
