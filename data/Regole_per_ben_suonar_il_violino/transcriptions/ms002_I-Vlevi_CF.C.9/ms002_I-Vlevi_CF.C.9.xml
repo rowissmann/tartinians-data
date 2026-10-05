@@ -3833,8 +3833,7 @@
       </surface>
    </facsimile>
    <text>
-      <body>
-         <ab>
+      <body>        
                <pb facs="#facs_1" n="1" xml:id="img_0001"/>
                <pb facs="#facs_2" n="2" xml:id="img_0002"/>
                <pb facs="#facs_3" n="3" xml:id="img_0003"/>
@@ -3844,8 +3843,7 @@
                <pb facs="#facs_7" n="7" xml:id="img_0007"/>
                <note place="margin-left" facs="#facs_7_r">
                   <lb facs="#facs_7_l" n="001"/>Studii Tartini
-               <lb facs="#facs_7_l_1" n="002"/>originali</note>
-         </ab>
+               <lb facs="#facs_7_l_1" n="002"/>originali</note>       
          <div>
             <head facs="#facs_7_r_1">
                <lb facs="#facs_7_l_2" n="001"/>Appoggiature in genere</head>
