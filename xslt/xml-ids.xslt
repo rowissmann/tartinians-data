@@ -23,6 +23,13 @@
     notatedMusic/graphic is replaced by
                       <ptr target="ms002_I-Vlevi_CF.C.9_m001.xml"/>
 
+  FACSIMILE IDS AND REFERENCES (example facsimile prefix "ms002")
+    facsimile//surface  xml:id="facs_1"     -> xml:id="ms002_facs_1"
+    facsimile//zone     xml:id="facs_7_r"   -> xml:id="ms002_facs_7_r"
+    text//@facs         facs="#facs_1"      -> facs="#ms002_facs_1"
+                        (lists such as "#facs_23_r_5 #facs_24_r" are
+                        handled pointer by pointer)
+
   NUMBERING RULES
     - Top-level divs, pb and notatedMusic are counted across the whole
       body in document order.
@@ -32,6 +39,10 @@
       has its own counter (p001, p002 ... and h001, h002 ...).
     - @n always carries the same running number as the xml:id suffix.
     - Existing @xml:id / @n on these elements are REPLACED (never duplicated).
+    - Facsimile IDs that already start with the facsimile prefix are not
+      prefixed a second time, so the stylesheet can safely be run again.
+    - A @facs pointer is only changed if it points to a surface or zone in
+      the facsimile; all other pointers are copied unchanged.
 
   REUSE
     Only the CONFIGURATION section below needs to be touched. By default the
@@ -70,6 +81,15 @@
          <xsl:param name="manualPrefix" select="'ms002_I-Vlevi_CF.C.9'"/> -->
     <xsl:param name="manualPrefix" as="xs:string" select="'ms002'"/>
 
+    <!-- Manual prefix for the IDs of surface and zone in the facsimile (and
+         therefore for all @facs references in the text). Leave empty ('')
+         to derive it from the source file name: the part before the first
+         "_" ("ms002_I-Vlevi_CF.C.9.xml" -> "ms002"). The separator $sep is
+         added automatically ("ms002" -> "ms002_facs_1"). Example of a fixed
+         value:
+         <xsl:param name="manualFacsPrefix" select="'ms002'"/> -->
+    <xsl:param name="manualFacsPrefix" as="xs:string" select="''"/>
+
     <!-- Separator between the parts of an ID. -->
     <xsl:variable name="sep" as="xs:string" select="'_'"/>
 
@@ -106,6 +126,23 @@
                 then normalize-space($manualPrefix)
                 else $fileNamePrefix"/>
 
+    <!-- Facsimile prefix derived from the file name: the part before the
+         first separator (e.g. "ms002"); the whole file name if there is no
+         separator. -->
+    <xsl:variable name="facsFileNamePrefix" as="xs:string"
+        select="if (contains($fileNamePrefix, $sep))
+                then substring-before($fileNamePrefix, $sep)
+                else $fileNamePrefix"/>
+
+    <!-- The string put in front of every surface/zone ID: the manual
+         facsimile prefix if one is given, otherwise the derived one,
+         followed by the separator (e.g. "ms002_"). -->
+    <xsl:variable name="facsPrefix" as="xs:string"
+        select="concat(if (normalize-space($manualFacsPrefix) != '')
+                       then normalize-space($manualFacsPrefix)
+                       else $facsFileNamePrefix,
+                       $sep)"/>
+
 
     <!-- ====================================================================
          KEYS
@@ -126,6 +163,13 @@
         match="tei:body//tei:p | tei:body//tei:head"
         use="concat(local-name(), '#',
                     generate-id((ancestor::tei:div[1], ancestor::tei:body[1])[1]))"/>
+
+    <!-- Indexes every surface and zone in the facsimile by its ORIGINAL
+         xml:id. Used to decide whether a @facs pointer in the text refers
+         to an element whose ID is being prefixed. -->
+    <xsl:key name="facsElementsById"
+        match="tei:facsimile//tei:surface[@xml:id] | tei:facsimile//tei:zone[@xml:id]"
+        use="string(@xml:id)"/>
 
 
     <!-- ====================================================================
@@ -178,6 +222,17 @@
         <xsl:param name="music" as="element(tei:notatedMusic)"/>
         <xsl:sequence select="concat($idPrefix, $sep, $notatedMusicMarker,
             format-number(f:music-number($music), $musicNumberFormat))"/>
+    </xsl:function>
+
+
+    <!-- Returns a facsimile ID with the facsimile prefix in front
+         ("facs_1" -> "ms002_facs_1"). An ID that already starts with the
+         prefix is returned unchanged (no double prefix on a second run). -->
+    <xsl:function name="f:facs-id" as="xs:string">
+        <xsl:param name="id" as="xs:string"/>
+        <xsl:sequence select="if (starts-with($id, $facsPrefix))
+                              then $id
+                              else concat($facsPrefix, $id)"/>
     </xsl:function>
 
 
@@ -310,6 +365,42 @@
             <xsl:attribute name="target"
                 select="concat(f:music-id(parent::tei:notatedMusic), $musicFileExtension)"/>
         </xsl:element>
+    </xsl:template>
+
+
+    <!-- ====================================================================
+         TEMPLATE 7: xml:id OF surface AND zone IN THE FACSIMILE
+         Replaces the ID by the prefixed ID ("facs_1" -> "ms002_facs_1").
+         All other attributes of surface and zone are copied unchanged by
+         the identity template.
+         ==================================================================== -->
+    <xsl:template match="tei:facsimile//tei:surface/@xml:id
+                       | tei:facsimile//tei:zone/@xml:id">
+        <xsl:attribute name="xml:id" select="f:facs-id(string(.))"/>
+    </xsl:template>
+
+
+    <!-- ====================================================================
+         TEMPLATE 8: @facs REFERENCES IN THE TEXT
+         1. Split the attribute value into its single pointers (a @facs can
+            hold several, separated by whitespace).
+         2. For each pointer: if it is a local reference ("#...") to a
+            surface or zone in the facsimile, prefix the ID after the "#"
+            ("#facs_1" -> "#ms002_facs_1"); otherwise keep it unchanged.
+         3. Join the pointers again with a single space.
+         The templates for div, p, head, pb and notatedMusic pass their
+         attributes through xsl:apply-templates, so their @facs is also
+         handled here.
+         ==================================================================== -->
+    <xsl:template match="tei:text//@facs">
+        <xsl:variable name="pointers" as="xs:string*"
+            select="for $ptr in tokenize(normalize-space(.), '\s+')
+                    return
+                        if (starts-with($ptr, '#')
+                            and exists(key('facsElementsById', substring($ptr, 2))))
+                        then concat('#', f:facs-id(substring($ptr, 2)))
+                        else $ptr"/>
+        <xsl:attribute name="facs" select="string-join($pointers, ' ')"/>
     </xsl:template>
 
 </xsl:stylesheet>
