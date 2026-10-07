@@ -402,5 +402,36 @@
                         else $ptr"/>
         <xsl:attribute name="facs" select="string-join($pointers, ' ')"/>
     </xsl:template>
-
+    <!-- ============================================================
+         revisionDesc: append a <change> documenting this transformation
+         – @n    = highest existing change/@n + 1
+         – @when = current date
+         – note  = filename of this stylesheet
+         ============================================================ -->
+    <xsl:template match="tei:teiHeader/tei:revisionDesc">
+        <xsl:copy>
+            <xsl:apply-templates select="@* | node()"/>
+            <xsl:call-template name="add-change"/>
+        </xsl:copy>
+    </xsl:template>
+    
+    <!-- teiHeader without revisionDesc: create one -->
+    <xsl:template match="tei:teiHeader[not(tei:revisionDesc)]">
+        <xsl:copy>
+            <xsl:apply-templates select="@* | node()"/>
+            <revisionDesc xmlns="http://www.tei-c.org/ns/1.0">
+                <xsl:call-template name="add-change"/>
+            </revisionDesc>
+        </xsl:copy>
+    </xsl:template>
+    
+    <xsl:template name="add-change">
+        <xsl:variable name="last-n" as="xs:integer"
+            select="max((0, for $n in ancestor-or-self::tei:teiHeader//tei:change/@n[. castable as xs:integer] return xs:integer($n)))"/>
+        <change xmlns="http://www.tei-c.org/ns/1.0"
+            n="{$last-n + 1}"
+            when="{format-date(current-date(), '[Y0001]-[M01]-[D01]')}">
+            <note>Transformation with <xsl:value-of select="tokenize(static-base-uri(), '/')[last()]"/></note>
+        </change>
+    </xsl:template>
 </xsl:stylesheet>
