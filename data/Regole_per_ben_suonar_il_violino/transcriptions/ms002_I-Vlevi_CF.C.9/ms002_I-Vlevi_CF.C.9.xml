@@ -38,6 +38,22 @@
                      </char>
                </charDecl>
          </encodingDesc>
+         <revisionDesc>
+               <change n="1" when="2026-10-07">
+                     <note>First transformation from Transkribus export (PAGE-XML/METS) to TEI-XML via page2tei-0.xsl based on Dario Kampkaspar's 
+                           <ref target="https://github.com/dariok/page2tei">page2tei</ref> transformation scenario
+                     </note>
+               </change>
+               <change n="2" when="2026-10-07">
+                     <note>Transformation with 01-join-notatedMusic.xsl</note>
+               </change>
+               <change n="3" when="2026-10-07">
+                     <note>Transformation with 02-notatedMusicInline.xsl</note>
+               </change>
+               <change n="4" when="2026-10-07">
+                     <note>Transformation with 03-replace_ab_with_milestone_and_wrap_p.xsl</note>
+               </change>
+         </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="6336" lry="9504" xml:id="facs_1">
