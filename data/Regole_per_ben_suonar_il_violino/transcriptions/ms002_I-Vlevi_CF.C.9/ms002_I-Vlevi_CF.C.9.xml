@@ -1537,7 +1537,7 @@
          <graphic url="0073_00073.jpg" width="6336px" height="9504px"/>
       </surface>
    </facsimile>
-   <text>
+   <text xml:id="ms002_text">
       <body>        
                <pb facs="#ms002_facs_1" n="1" xml:id="ms002_pb1"/>
                <pb facs="#ms002_facs_2" n="2" xml:id="ms002_pb2"/>
