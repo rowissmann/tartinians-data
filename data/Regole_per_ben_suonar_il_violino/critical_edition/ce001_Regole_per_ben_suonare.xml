@@ -1568,7 +1568,7 @@
                semituono; ò sotto la nota vera dell’armonia; più basse, ò gravi per
                tuono, e semituono.
             <notatedMusic xml:id="ce001_m001" corresp="#ms002_m001" n="1" facs="#ms002_facs_7_r_3">
-                  <ptr target="ms002_m001.xml"/>
+                  <ptr target="ce001_m001.xml"/>
             </notatedMusic></p>
                <p xml:id="ce001_d1_p3" corresp="#ms002_d1_p3" n="3">
                Si parlarà prima delle discendenti, come più naturali, e secondo
@@ -1584,7 +1584,7 @@
                ò sia sostentata, appoggiatura breve, ò sia di passaggio. L’appoggiatura lunga deve valere la metà della nota, a cui è appoggiata
                (secondo la sua semplicità, e natura.)
             <notatedMusic xml:id="ce001_m002" corresp="#ms002_m002" n="2" facs="#ms002_facs_9_r_2">
-                  <ptr target="ms002_m002.xml"/>
+                  <ptr target="ce001_m002.xml"/>
                </notatedMusic></p>
                <p xml:id="ce001_d2_p2" corresp="#ms002_d2_p2" n="2">
                La differenza della
@@ -1601,14 +1601,14 @@
                minoratione di forza di arcata, o di voce alla nota, a cui è appoggiata.
                Molto più, perchè doppo l’appoggiatura naturalm.te succede il trillo alla nota.
             <notatedMusic xml:id="ce001_m003" corresp="#ms002_m003" n="3" facs="#ms002_facs_9_r_4">
-                  <ptr target="ms002_m003.xml"/>
+                  <ptr target="ce001_m003.xml"/>
                </notatedMusic></p>
                <p xml:id="ce001_d2_p3" corresp="#ms002_d2_p3" n="3">
                Se poi la nota avesse il punto, cosichè il suo valore in tempo ordinario
                fosse di tre note (numero impari in genere;) allora il valore dell’appoggiatura è di due terzi, il valore della nota di un terzo solo.
             <pb facs="#ms002_facs_10" n="10" xml:id="ce001_pb10" corresp="#ms002_pb10"/>
                <notatedMusic xml:id="ce001_m004" corresp="#ms002_m004" n="4" facs="#ms002_facs_10_r">
-                  <ptr target="ms002_m004.xml"/>
+                  <ptr target="ce001_m004.xml"/>
                </notatedMusic></p>
          </div>
          <div xml:id="ce001_d3" corresp="#ms002_d3" n="3">
@@ -1623,14 +1623,14 @@
                battuta, e il mezzo della battuta; cioè il battere, e il levare. In tripola
                è sempre la prima nota della battuta.
             <notatedMusic xml:id="ce001_m005" corresp="#ms002_m005" n="5" facs="#ms002_facs_10_r_3">
-                  <ptr target="ms002_m005.xml"/>
+                  <ptr target="ce001_m005.xml"/>
                </notatedMusic></p>
                <p xml:id="ce001_d3_p2" corresp="#ms002_d3_p2" n="2">
                Da ciò si rileva, che date note eguali per serie, le appoggiarue lunghe naturalm.te
                non hanno luoco, se non con pregiudizio del sentimento scritto. E ciò è vero
                in qualunque valore di note, e in qualunque tempo.
             <notatedMusic xml:id="ce001_m006" corresp="#ms002_m006" n="6" facs="#ms002_facs_10_r_5">
-                  <ptr target="ms002_m006.xml"/>
+                  <ptr target="ce001_m006.xml"/>
                </notatedMusic></p>
                <p xml:id="ce001_d3_p3" corresp="#ms002_d3_p3" n="3">
                Così a proportione in qualunque
@@ -1638,7 +1638,7 @@
                scrive note eguali per sentimento,
             <pb facs="#ms002_facs_11" n="11" xml:id="ce001_pb11" corresp="#ms002_pb11"/>
                <notatedMusic xml:id="ce001_m007" corresp="#ms002_m007" n="7" facs="#ms002_facs_11_r">
-                  <ptr target="ms002_m007.xml"/>
+                  <ptr target="ce001_m007.xml"/>
                </notatedMusic>
                ò per tema della sua
                compositione, non dovendosi
@@ -1650,7 +1650,7 @@
                ò nel levare della battuta di tempo ordinario; o nel battere della
                tripola.
             <notatedMusic xml:id="ce001_m008" corresp="#ms002_m008" n="8" facs="#ms002_facs_11_r_3">
-                  <ptr target="ms002_m008.xml"/>
+                  <ptr target="ce001_m008.xml"/>
                </notatedMusic></p>
                <p xml:id="ce001_d3_p4" corresp="#ms002_d3_p4" n="4">
                L’effetto di questa tal sorte di appoggiature è di ridurre la espressione
@@ -1675,7 +1675,7 @@
                indeterminato, perchè dato l’esempio in crome, pare, che l’appoggiatura
                vaglia apresso a poco la metà.
             <notatedMusic xml:id="ce001_m009" corresp="#ms002_m009" n="9" facs="#ms002_facs_12_r_3">
-                  <ptr target="ms002_m009.xml"/>
+                  <ptr target="ce001_m009.xml"/>
                </notatedMusic></p>
                <p xml:id="ce001_d3_p6" corresp="#ms002_d3_p6" n="6">
                Ma non è vero altrim.ti, che questa possa esser regola, perchè dato lo
@@ -1683,7 +1683,7 @@
                una croma, se non con pessimo effetto.</p>
             <pb facs="#ms002_facs_13" n="13" xml:id="ce001_pb13" corresp="#ms002_pb13"/>
                <notatedMusic xml:id="ce001_m010" corresp="#ms002_m010" n="10" facs="#ms002_facs_13_r">
-                  <ptr target="ms002_m010.xml"/>
+                  <ptr target="ce001_m010.xml"/>
                </notatedMusic>
                <p xml:id="ce001_d3_p7" corresp="#ms002_d3_p7" n="7">
                Anzi per il contrario (quando si voglia l’ottimo effetto) più la nota è lunga,
@@ -1691,7 +1691,7 @@
                minime per esempio, sia vero che l’appoggiatura debba esser tanto veloce,
                che apena si senta.
             <notatedMusic xml:id="ce001_m011" corresp="#ms002_m011" n="11" facs="#ms002_facs_13_r_2">
-                  <ptr target="ms002_m011.xml"/>
+                  <ptr target="ce001_m011.xml"/>
                </notatedMusic></p>
                <p xml:id="ce001_d3_p8" corresp="#ms002_d3_p8" n="8">
                Questo procede dall’accento lungo, ò sia forza, che cade sempre più
@@ -1709,13 +1709,13 @@
                come si è detto, in qualunque caso di terze discendenti per note
                eguali, cioè di eguale valore.
             <notatedMusic xml:id="ce001_m012" corresp="#ms002_m012" n="12" facs="#ms002_facs_13_r_6">
-                  <ptr target="ms002_m012.xml"/>
+                  <ptr target="ce001_m012.xml"/>
                </notatedMusic>
                <pb facs="#ms002_facs_14" n="14" xml:id="ce001_pb14" corresp="#ms002_pb14"/>
                E poi in qualunque scala discendente per note eguali di valore di
                semiminima, e croma in tutti li due tempi, ordinario, e di tripola.
             <notatedMusic xml:id="ce001_m013" corresp="#ms002_m013" n="13" facs="#ms002_facs_14_r_1">
-                  <ptr target="ms002_m013.xml"/>
+                  <ptr target="ce001_m013.xml"/>
                </notatedMusic></p><p xml:id="ce001_d4_p2" corresp="#ms002_d4_p2" n="2">
                L’effetto di questa tal sorte di appoggiature è di ridurre la espressione a
                vivacità, e brio; e però non devono aver luoco in gravi
@@ -1725,19 +1725,19 @@
                La loro precisa espressione è la seguente, che si spiega per la perfetta
                essecutione.
             <notatedMusic xml:id="ce001_m014" corresp="#ms002_m014" n="14" facs="#ms002_facs_14_r_3">
-                  <ptr target="ms002_m014.xml"/>
+                  <ptr target="ce001_m014.xml"/>
                </notatedMusic></p><p xml:id="ce001_d4_p3" corresp="#ms002_d4_p3" n="3">
                Qualche volta si adoprano ascendendo le appoggiature di passaggio, ma
                ascendendo per scala.
             <notatedMusic xml:id="ce001_m015" corresp="#ms002_m015" n="15" facs="#ms002_facs_14_r_5">
-                  <ptr target="ms002_m015.xml"/>
+                  <ptr target="ce001_m015.xml"/>
                </notatedMusic>
                Però si avverta, che in questo caso vi è un’equivoco di appoggiatura
             <pb facs="#ms002_facs_15" n="15" xml:id="ce001_pb15" corresp="#ms002_pb15"/>
                a nota, perché veram.te l’ottimo effetto non si hà dall’appoggiatura, ma
                dalla nota anticipata all’appoggiatura, che fà equivoco con l’appoggiatura stessa.
             <notatedMusic xml:id="ce001_m016" corresp="#ms002_m016" n="16" facs="#ms002_facs_15_r_2">
-                  <ptr target="ms002_m016.xml"/>
+                  <ptr target="ce001_m016.xml"/>
                </notatedMusic>
                Questo modo di nota (e non d’appoggiatura) serve ascendendo, e
                discendendo per scala.
@@ -1753,27 +1753,27 @@
                chiaram.te, che la dissonanza non può ascendere, ma deve discendere per la
                sua risolutione.
             <notatedMusic xml:id="ce001_m017" corresp="#ms002_m017" n="17" facs="#ms002_facs_15_r_5">
-                  <ptr target="ms002_m017.xml"/>
+                  <ptr target="ce001_m017.xml"/>
                </notatedMusic></p><p xml:id="ce001_d5_p2" corresp="#ms002_d5_p2" n="2">
                <pb facs="#ms002_facs_16" n="16" xml:id="ce001_pb16" corresp="#ms002_pb16"/>
                Da questo procede, che non si possa dare appoggiatura ascendente semplice, ma
                composta.
             <notatedMusic xml:id="ce001_m018" corresp="#ms002_m018" n="18" facs="#ms002_facs_16_r_1">
-                  <ptr target="ms002_m018.xml"/>
+                  <ptr target="ce001_m018.xml"/>
                </notatedMusic>
                Ò sia composta in altro modo; cioè che cominci ascendendo, e finisca
                discendendo.
             <notatedMusic xml:id="ce001_m019" corresp="#ms002_m019" n="19" facs="#ms002_facs_16_r_3">
-                  <ptr target="ms002_m019.xml"/>
+                  <ptr target="ce001_m019.xml"/>
                </notatedMusic></p><p xml:id="ce001_d5_p3" corresp="#ms002_d5_p3" n="3">
                Per provare, che le appoggiature ascendenti siano contro natura, si formi
                un progresso di salti di terza in sù, e si empiano le terze con l’appoggiatura ascendente di passaggio, come si empiono li salti di terza
                discendenti con l’appoggiatura discendente di passaggio.
             <notatedMusic xml:id="ce001_m020" corresp="#ms002_m020" n="20" facs="#ms002_facs_16_r_5">
-                  <ptr target="ms002_m020.xml"/>
+                  <ptr target="ce001_m020.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m021" corresp="#ms002_m021" n="21" facs="#ms002_facs_16_r_6">
-                  <ptr target="ms002_m021.xml"/>
+                  <ptr target="ce001_m021.xml"/>
                </notatedMusic></p><p xml:id="ce001_d5_p4" corresp="#ms002_d5_p4" n="4">
                <pb facs="#ms002_facs_17" n="17" xml:id="ce001_pb17" corresp="#ms002_pb17"/>
                Vi sono poi appoggiature di salto, quali ò ascendenti, ò discendenti, sono sempre
@@ -1781,7 +1781,7 @@
                regola delle appoggiature lunghe per scala discendente; et hanno molto,
                et ottimo luoco nel cantabile sostenuto, grave, e patetico.
             <notatedMusic xml:id="ce001_m022" corresp="#ms002_m022" n="22" facs="#ms002_facs_17_r_1">
-                  <ptr target="ms002_m022.xml"/>
+                  <ptr target="ce001_m022.xml"/>
                </notatedMusic>
                Si deducono sempre dall’unisono della nota antecedente.</p>
             <pb facs="#ms002_facs_18" n="18" xml:id="ce001_pb18" corresp="#ms002_pb18"/>
@@ -1797,12 +1797,12 @@
                Due trilli vi sono in genere, e nulla più. Trillo di tuono, e trillo di semituono.
                Il trillo per tuono è
             <notatedMusic xml:id="ce001_m023" corresp="#ms002_m023" n="23" facs="#ms002_facs_19_r_7">
-                  <ptr target="ms002_m023.xml"/>
+                  <ptr target="ce001_m023.xml"/>
                </notatedMusic>
                E questo è il trillo delle cadenze, e de tuoni di terza maggiore.
                Il trillo per semituono è
             <notatedMusic xml:id="ce001_m024" corresp="#ms002_m024" n="24" facs="#ms002_facs_19_r_10">
-                  <ptr target="ms002_m024.xml"/>
+                  <ptr target="ce001_m024.xml"/>
                </notatedMusic>
                E questo è il trillo delle cadenze, e de tuoni di terza minore.</p><p xml:id="ce001_d6_p3" corresp="#ms002_d6_p3" n="3">
                Il mecanismo del trillo si è di tener forte il dito della nota, ò sia base del
@@ -1812,12 +1812,12 @@
                in qualche modo il trillo eccedente il tuono, et è il caso del seguente
                esempio.
             <notatedMusic xml:id="ce001_m025" corresp="#ms002_m025" n="25" facs="#ms002_facs_19_r_5">
-                  <ptr target="ms002_m025.xml"/>
+                  <ptr target="ce001_m025.xml"/>
                </notatedMusic>
                In cui il trillo a cagione del
                Basso dev’essere
             <notatedMusic xml:id="ce001_m026" corresp="#ms002_m026" n="26" facs="#ms002_facs_19_r_12">
-                  <ptr target="ms002_m026.xml"/>
+                  <ptr target="ce001_m026.xml"/>
                </notatedMusic>
                Ma quando succeda questo tal caso prattico (e succede frequentemente,)
             <pb facs="#ms002_facs_20" n="20" xml:id="ce001_pb20" corresp="#ms002_pb20"/>
@@ -1827,7 +1827,7 @@
                Li modi del trillo sono molti per diversi rispetti, Primieram.te in rispetto alla
                velocità maggiore, ò minore.
             <notatedMusic xml:id="ce001_m027" corresp="#ms002_m027" n="27" facs="#ms002_facs_20_r_1">
-                  <ptr target="ms002_m027.xml"/>
+                  <ptr target="ce001_m027.xml"/>
                </notatedMusic>
                L’uso del tardo è nelle cose gravi, patetiche, malinconiche,
                L’uso del medio è nelle cose allegre temperate.
@@ -1842,7 +1842,7 @@
                moto tardo, e a proportione và crescendo di velocità sino all’ultimo
                grado.
             <notatedMusic xml:id="ce001_m028" corresp="#ms002_m028" n="28" facs="#ms002_facs_20_r_3">
-                  <ptr target="ms002_m028.xml"/>
+                  <ptr target="ce001_m028.xml"/>
                </notatedMusic></p><p xml:id="ce001_d6_p7" corresp="#ms002_d6_p7" n="7">
                <pb facs="#ms002_facs_21" n="21" xml:id="ce001_pb21" corresp="#ms002_pb21"/>
                Il principio del trillo hà parimenti li suoi modi diversi. Si può cominciare
@@ -1850,25 +1850,25 @@
                apparrecchiarlo e di sopra, e di sotto della nota del trillo. Di sopra con un’appoggiatura sostentata; di sotto con note, che si assomigliano ad un
                principio di trillo.
             <notatedMusic xml:id="ce001_m029" corresp="#ms002_m029" n="29" facs="#ms002_facs_21_r_1">
-                  <ptr target="ms002_m029.xml"/>
+                  <ptr target="ce001_m029.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m030" corresp="#ms002_m030" n="30" facs="#ms002_facs_21_r_2">
-                  <ptr target="ms002_m030.xml"/>
+                  <ptr target="ce001_m030.xml"/>
                </notatedMusic></p><p xml:id="ce001_d6_p8" corresp="#ms002_d6_p8" n="8">
                Il fine del trillo hà parimenti li suoi modi diversi. Li più communi, e
                naturali sono due, e sono li posti ne due esempi seguenti.
             <notatedMusic xml:id="ce001_m031" corresp="#ms002_m031" n="31" facs="#ms002_facs_21_r_4">
-                  <ptr target="ms002_m031.xml"/>
+                  <ptr target="ce001_m031.xml"/>
                </notatedMusic></p><p xml:id="ce001_d6_p9" corresp="#ms002_d6_p9" n="9">
                Vi è un'altro modo artificiale; et è il seguente.
             <notatedMusic xml:id="ce001_m032" corresp="#ms002_m032" n="32" facs="#ms002_facs_21_r_6">
-                  <ptr target="ms002_m032.xml"/>
+                  <ptr target="ce001_m032.xml"/>
                </notatedMusic>
                Et altri simili artificiali. </p><p xml:id="ce001_d6_p10" corresp="#ms002_d6_p10" n="10">
                Ne nostri tempi si usa un trillo portato immediatam.te all’ottava alta; segue
                l’esempio.
             <notatedMusic xml:id="ce001_m033" corresp="#ms002_m033" n="33" facs="#ms002_facs_21_r_9">
-                  <ptr target="ms002_m033.xml"/>
+                  <ptr target="ce001_m033.xml"/>
                </notatedMusic>
                Questo modo non è di natura;
                è modo di arte, e di arte piuttosto cattiva, che buona; perche
@@ -1882,28 +1882,28 @@
                si usi il trillo lento, e a proportione si accelleri nell’accrescere la forza
                alla voce, ò al suono.
             <notatedMusic xml:id="ce001_m034" corresp="#ms002_m034" n="34" facs="#ms002_facs_22_r_1">
-                  <ptr target="ms002_m034.xml"/>
+                  <ptr target="ce001_m034.xml"/>
                </notatedMusic></p><p xml:id="ce001_d6_p12" corresp="#ms002_d6_p12" n="12">
                Vi sono poi altri modi di trillo dedotti dal portamento della voce per scala
                ascendente, e discendente.
             <notatedMusic xml:id="ce001_m035" corresp="#ms002_m035" n="35" facs="#ms002_facs_22_r_3">
-                  <ptr target="ms002_m035.xml"/>
+                  <ptr target="ce001_m035.xml"/>
                </notatedMusic>
                Questo (come portamento si fà nel
                violino col secondo dito, ò pure
                con un dito solo.
             <notatedMusic xml:id="ce001_m036" corresp="#ms002_m036" n="36" facs="#ms002_facs_22_r_5">
-                  <ptr target="ms002_m036.xml"/>
+                  <ptr target="ce001_m036.xml"/>
                </notatedMusic>
                Si fà lo stesso col
                trillo
             <notatedMusic xml:id="ce001_m037" corresp="#ms002_m037" n="37" facs="#ms002_facs_22_r_7">
-                  <ptr target="ms002_m037.xml"/>
+                  <ptr target="ce001_m037.xml"/>
                </notatedMusic>
                Lo stesso discendendo
                E lo stesso in altri valori di note
             <notatedMusic xml:id="ce001_m038" corresp="#ms002_m038" n="38" facs="#ms002_facs_22_r_10">
-                  <ptr target="ms002_m038.xml"/>
+                  <ptr target="ce001_m038.xml"/>
                </notatedMusic>
                Questo modo hà il suo ottimo effetto nelle scale; non lo hà eguale ne
                salti. </p><p xml:id="ce001_d6_p13" corresp="#ms002_d6_p13" n="13">
@@ -1927,7 +1927,7 @@
                Qualunque cadenza ò finale, ò intermedia; ò di quarta, ò di quinta,
                ò sospesa, porta trillo alla nota antecedente. 
             <notatedMusic xml:id="ce001_m039" corresp="#ms002_m039" n="39" facs="#ms002_facs_23_r_3">
-                  <ptr target="ms002_m039.xml"/>
+                  <ptr target="ce001_m039.xml"/>
                </notatedMusic></p><p xml:id="ce001_d7_p2" corresp="#ms002_d7_p2" n="2">
                È però vero, che il trillo delle cadenze finali (terminanti il senso, ò
                periodo della Compositione) devono avere una specie di trillo;
@@ -1935,14 +1935,14 @@
                trillo delle cadenze finali, ò terminanti senso, e periodo, dev’esser lo
                spiegato di sopra; e il trillo delle cadenze sospese, ò intermedie dev’esser espresso con tre note nel modo seguente
             <notatedMusic xml:id="ce001_m040" corresp="#ms002_m040" n="40" facs="#ms002_facs_23_r_5 #ms002_facs_24_r">
-                  <ptr target="ms002_m040.xml"/>
+                  <ptr target="ce001_m040.xml"/>
                </notatedMusic></p><p xml:id="ce001_d7_p3" corresp="#ms002_d7_p3" n="3">
                <pb facs="#ms002_facs_24" n="24" xml:id="ce001_pb24" corresp="#ms002_pb24"/>
                Quando il tempo è sufficiente, alle tre note suddette (cioè alle due note,
                che succedono doppo il trillo) vi si aggiunge una appoggiatura di
                passaggio nel modo seguente.
             <notatedMusic xml:id="ce001_m041" corresp="#ms002_m041" n="41" facs="#ms002_facs_24_r_2">
-                  <ptr target="ms002_m041.xml"/>
+                  <ptr target="ce001_m041.xml"/>
                </notatedMusic>
                Questo è modo di trillo cantabile; e
                secondo la natura, e fà ottimo effetto, adattato a luoghi accennati.
@@ -1950,7 +1950,7 @@
                il suddetto modo; e quando si voglia fare altrimenti, sarà sempre
                cattivo.
             <notatedMusic xml:id="ce001_m042" corresp="#ms002_m042" n="42" facs="#ms002_facs_24_r_4">
-                  <ptr target="ms002_m042.xml"/>
+                  <ptr target="ce001_m042.xml"/>
                </notatedMusic>
                In tal caso non vi si aggiunge mai l’appoggiatura. </p><p xml:id="ce001_d7_p4" corresp="#ms002_d7_p4" n="4">
                Vi sono poi altre infinite addattationi del trillo e in rispetto al cantabile, e in
@@ -1958,7 +1958,7 @@
                solam.te si daranno poche regole in generale. Si osservi in primo
                luoco la eguaglianza. Per esempio data una scala di Crome come segue,
             <notatedMusic xml:id="ce001_m043" corresp="#ms002_m043" n="43" facs="#ms002_facs_24_r_6">
-                  <ptr target="ms002_m043.xml"/>
+                  <ptr target="ce001_m043.xml"/>
                </notatedMusic>
                e dato il trillo alla prima nota della battuta,
             <pb facs="#ms002_facs_25" n="25" xml:id="ce001_pb25" corresp="#ms002_pb25"/>
@@ -1970,51 +1970,51 @@
                Date due note legate in principio di quarti, ò ottavi di battuta, il trillo
                cade sopra la prima delle due.
             <notatedMusic xml:id="ce001_m045" corresp="#ms002_m045" n="45" facs="#ms002_facs_25_r_1">
-                  <ptr target="ms002_m045.xml"/>
+                  <ptr target="ce001_m045.xml"/>
                </notatedMusic>
                Date due note legate,
                e due sciolte, sia il trillo alla prima delle due legate.
             <notatedMusic xml:id="ce001_m046" corresp="#ms002_m046" n="46" facs="#ms002_facs_25_r_3">
-                  <ptr target="ms002_m046.xml"/>
+                  <ptr target="ce001_m046.xml"/>
                </notatedMusic>
                Date tre note legate, il trillo sia alla nota di mezzo, se le note sono
                come l’esempio.
             <notatedMusic xml:id="ce001_m047" corresp="#ms002_m047" n="47" facs="#ms002_facs_25_r_5">
-                  <ptr target="ms002_m047.xml"/>
+                  <ptr target="ce001_m047.xml"/>
                </notatedMusic>
                Se le note sono in contro legatura, sia il trillo sopra la seconda legata.
             <notatedMusic xml:id="ce001_m048" corresp="#ms002_m048" n="48" facs="#ms002_facs_25_r_7">
-                  <ptr target="ms002_m048.xml"/>
+                  <ptr target="ce001_m048.xml"/>
                </notatedMusic>
                Date note puntate, farà ottimo effetto il trillo sopra il punto.
             <pb facs="#ms002_facs_26" n="26" xml:id="ce001_pb26" corresp="#ms002_pb26"/>
                <notatedMusic xml:id="ce001_m049" corresp="#ms002_m049" n="49" facs="#ms002_facs_26_r">
-                  <ptr target="ms002_m049.xml"/>
+                  <ptr target="ce001_m049.xml"/>
                </notatedMusic>
                Date note puntate per scala, il trillo si può addattare ad ambidue le note.
             <notatedMusic xml:id="ce001_m050" corresp="#ms002_m050" n="50" facs="#ms002_facs_26_r_2">
-                  <ptr target="ms002_m050.xml"/>
+                  <ptr target="ce001_m050.xml"/>
                </notatedMusic>
                Ma si distingua, e si noti, che nel primo esempio il trillo adattato alla nota
                lunga, fà l’espressione più cantabile. Nel secondo esempio il trillo
                adattato alla nota breve fà l’espressione più sonabile, e ardita. Anzi
                nel secondo caso la vera espressione è
             <notatedMusic xml:id="ce001_m051" corresp="#ms002_m051" n="51" facs="#ms002_facs_26_r_4">
-                  <ptr target="ms002_m051.xml"/>
+                  <ptr target="ce001_m051.xml"/>
                </notatedMusic>
                Date due note legate nel modo seguente, il trillo col rinforzo cade sopra la
                seconda.
             <notatedMusic xml:id="ce001_m052" corresp="#ms002_m052" n="52" facs="#ms002_facs_26_r_6">
-                  <ptr target="ms002_m052.xml"/>
+                  <ptr target="ce001_m052.xml"/>
                </notatedMusic></p><p xml:id="ce001_d7_p6" corresp="#ms002_d7_p6" n="6">
                Avertimento generale si è di fuggire, et evitare il trillo nel principiare
                qualunque cantilena; e di evitare due trilli sopra due note consecutive,
                quando non fosse un’andamento di trilli.
             <notatedMusic xml:id="ce001_m053" corresp="#ms002_m053" n="53" facs="#ms002_facs_26_r_8">
-                  <ptr target="ms002_m053.xml"/>
+                  <ptr target="ce001_m053.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m054" corresp="#ms002_m054" n="54" facs="#ms002_facs_26_r_9">
-                  <ptr target="ms002_m054.xml"/>
+                  <ptr target="ce001_m054.xml"/>
                </notatedMusic>
             </p>
          </div>
@@ -2044,13 +2044,13 @@
                loro grandezza, e piccolezza indicaranno la lentezza, ò la
                velocità; e nello stesso modo li gradi.
             <notatedMusic xml:id="ce001_m055" corresp="#ms002_m055" n="55" facs="#ms002_facs_27_r_4">
-                  <ptr target="ms002_m055.xml"/>
+                  <ptr target="ce001_m055.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m056" corresp="#ms002_m056" n="56" facs="#ms002_facs_27_r_5">
-                  <ptr target="ms002_m056.xml"/>
+                  <ptr target="ce001_m056.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m057" corresp="#ms002_m057" n="57" facs="#ms002_facs_27_r_6">
-                  <ptr target="ms002_m057.xml"/>
+                  <ptr target="ce001_m057.xml"/>
                </notatedMusic></p><p xml:id="ce001_d8_p3" corresp="#ms002_d8_p3" n="3">
                <pb facs="#ms002_facs_28" n="28" xml:id="ce001_pb28" corresp="#ms002_pb28"/>
                Questo modo è escluso affatto dalle messe di voce, nelle quali perfettamente si
@@ -2068,7 +2068,7 @@
                Parimenti hà ottimo effetto nelle note ferme di qualuque compositione in
                qualunque tempo, quando le note siano distribuite nel modo seguente.
             <notatedMusic xml:id="ce001_m058" corresp="#ms002_m058" n="58" facs="#ms002_facs_28_r_3">
-                  <ptr target="ms002_m058.xml"/>
+                  <ptr target="ce001_m058.xml"/>
                </notatedMusic>
                Questo dev’esser sempre eguale, e talm.te a battuta perfetta, che il tremolio
                forte cada sempre sopra la seconda delle due note legate, segnata
@@ -2076,7 +2076,7 @@
                Hà finalmente ottimo effetto a due corde di nota ferma nel modo
                seguente.
             <notatedMusic xml:id="ce001_m059" corresp="#ms002_m059" n="59" facs="#ms002_facs_29_r_2">
-                  <ptr target="ms002_m059.xml"/>
+                  <ptr target="ce001_m059.xml"/>
                </notatedMusic>
                Ma si avverta, che in tempo ordinario il forte cade sopra il numero 1,
                il piano sopra il numero 2; ma in tripola il forte cade sopra il
@@ -2096,10 +2096,10 @@
                espresso in note, non consiste che in tre sole note aggiunte alla nota
                scritta, e sono in due modi, come nelli due esempi qui sottoposti.
             <notatedMusic xml:id="ce001_m060" corresp="#ms002_m060" n="60" facs="#ms002_facs_31_r_2">
-                  <ptr target="ms002_m060.xml"/>
+                  <ptr target="ce001_m060.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m061" corresp="#ms002_m061" n="61" facs="#ms002_facs_31_r_3">
-                  <ptr target="ms002_m061.xml"/>
+                  <ptr target="ce001_m061.xml"/>
                </notatedMusic>
                Il modo discendente del primo esempio è più naturale, e fà miglior effetto
                del secondo modo ascendente per quello stesso principio, e ragione,
@@ -2130,13 +2130,13 @@
                Si richiede però, che quella tal nota, che si trova ne’ quarti, sia più lunga
                delle altre, che gli succedono, come si vedrà nel sottoscritto esempio.
             <notatedMusic xml:id="ce001_m062" corresp="#ms002_m062" n="62" facs="#ms002_facs_32_r_3">
-                  <ptr target="ms002_m062.xml"/>
+                  <ptr target="ce001_m062.xml"/>
                </notatedMusic>
                Si noti parimenti, che rispetto alla cantilena scritta, si hà una specie di
                debito di adoprare tutti due li modi soprassegnati, ascendente, e discendente,
                quando la cantilena si trovi espressa come indica l’esempio seguente.
             <notatedMusic xml:id="ce001_m063" corresp="#ms002_m063" n="63" facs="#ms002_facs_32_r_5">
-                  <ptr target="ms002_m063.xml"/>
+                  <ptr target="ce001_m063.xml"/>
                </notatedMusic>
                Dal qual esempio (e da altri simili) si rileva, che il mordente seguita l’indole
                delle appoggiature, quali si partono dalla nota antecedente, e si
@@ -2149,12 +2149,12 @@
                e separate nel senso dalla battuta.
                Per esempio./
             <notatedMusic xml:id="ce001_m064" corresp="#ms002_m064" n="64" facs="#ms002_facs_33_r_2">
-                  <ptr target="ms002_m064.xml"/>
+                  <ptr target="ce001_m064.xml"/>
                </notatedMusic>
                Date anco le note eguali, quando ve ne sia una fuori di battuta, e sia la
                prima, non si deve adoperare sopra essa il mordente.
             <notatedMusic xml:id="ce001_m065" corresp="#ms002_m065" n="65" facs="#ms002_facs_33_r_4">
-                  <ptr target="ms002_m065.xml"/>
+                  <ptr target="ce001_m065.xml"/>
                </notatedMusic>
                La ragione è evidente perciò che si è detto sopra, cioè ch’essendo il mordente
                di natura di accento, sarà incompatibile con quelle note, che cadono
@@ -2168,13 +2168,13 @@
                ribbattuta, che torna in se stessa, e parte da se stessa con una nota
                sempre sottoscritta, ò sia sottodedotta.
             <notatedMusic xml:id="ce001_m066" corresp="#ms002_m066" n="66" facs="#ms002_facs_34_r_1">
-                  <ptr target="ms002_m066.xml"/>
+                  <ptr target="ce001_m066.xml"/>
                </notatedMusic>
                Si fà in due note in quattro in sei
                secondo la velocità maggiore, ò
                minore
             <notatedMusic xml:id="ce001_m067" corresp="#ms002_m067" n="67" facs="#ms002_facs_34_r_3">
-                  <ptr target="ms002_m067.xml"/>
+                  <ptr target="ce001_m067.xml"/>
                </notatedMusic>
                Questo è mordente di molto uso, e molta addattatione nelle cose allegre
                suonabili, e di spirito. Nelle cose gravi, e malinconiche non è
@@ -2225,11 +2225,11 @@
                vi è luoco se non al trillo solo fatto sopra la prima delle due note, che
                formano la cadenza finale, come nell’esempio qui sottoposto.
             <notatedMusic xml:id="ce001_m068" corresp="#ms002_m068" n="68" facs="#ms002_facs_36_r_1">
-                  <ptr target="ms002_m068.xml"/>
+                  <ptr target="ce001_m068.xml"/>
                </notatedMusic>
                Suo Basso, ch’è sempre cadenza autentica.
             <notatedMusic xml:id="ce001_m069" corresp="#ms002_m069" n="69" facs="#ms002_facs_36_r_3">
-                  <ptr target="ms002_m069.xml"/>
+                  <ptr target="ce001_m069.xml"/>
                </notatedMusic></p><p xml:id="ce001_d10_p4" corresp="#ms002_d10_p4" n="4">
                Sopra lo stesso basso di cadenza autentica vi sono moltissimi modi di
                cantilena espressi in altre note differenti dalle due date per esempio,
@@ -2240,20 +2240,20 @@
                esempi dedotti da tutti li moti del basso possibili, che siano naturali.
             <pb facs="#ms002_facs_37" n="37" xml:id="ce001_pb37" corresp="#ms002_pb37"/>
                <notatedMusic xml:id="ce001_m070" corresp="#ms002_m070" n="70" facs="#ms002_facs_37_r">
-                  <ptr target="ms002_m070.xml"/>
+                  <ptr target="ce001_m070.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m071" corresp="#ms002_m071" n="71" facs="#ms002_facs_37_r_1">
-                  <ptr target="ms002_m071.xml"/>
+                  <ptr target="ce001_m071.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m072" corresp="#ms002_m072" n="72" facs="#ms002_facs_37_r_2">
-                  <ptr target="ms002_m072.xml"/>
+                  <ptr target="ce001_m072.xml"/>
                </notatedMusic>
                <pb facs="#ms002_facs_38" n="38" xml:id="ce001_pb38" corresp="#ms002_pb38"/>
                <notatedMusic xml:id="ce001_m073" corresp="#ms002_m073" n="73" facs="#ms002_facs_38_r">
-                  <ptr target="ms002_m073.xml"/>
+                  <ptr target="ce001_m073.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m074" corresp="#ms002_m074" n="74" facs="#ms002_facs_38_r_1">
-                  <ptr target="ms002_m074.xml"/>
+                  <ptr target="ce001_m074.xml"/>
                </notatedMusic></p><p xml:id="ce001_d10_p5" corresp="#ms002_d10_p5" n="5">
                Questi sono apresso a poco tutti li moti di cantilena in parte acuta,
                quali formano una specie di cadenza, ò sia moto di cadenza, che
@@ -2277,33 +2277,33 @@
                allo scheletro, ò siano note semplici, che si trovaranno scritte nella
                cantilena.
             <notatedMusic xml:id="ce001_m075" corresp="#ms002_m075" n="75" facs="#ms002_facs_39_r_1">
-                  <ptr target="ms002_m075.xml"/>
+                  <ptr target="ce001_m075.xml"/>
                </notatedMusic>
                <pb facs="#ms002_facs_40" n="40" xml:id="ce001_pb40" corresp="#ms002_pb40"/>
                <notatedMusic xml:id="ce001_m076" corresp="#ms002_m076" n="76" facs="#ms002_facs_40_r">
-                  <ptr target="ms002_m076.xml"/>
+                  <ptr target="ce001_m076.xml"/>
                </notatedMusic></p>
                      <div xml:id="ce001_d10_sd1" corresp="#ms002_d10_sd1" n="1"><head xml:id="ce001_d10_sd1_h1" corresp="#ms002_d10_sd1_h1" n="1" facs="#ms002_facs_40_r_1">Finimenti di cadenze medie, ò sospese, non terminanti la cantilena nella
                      ultima nota.</head>
             <p xml:id="ce001_d10_sd1_p1" corresp="#ms002_d10_sd1_p1" n="1"><notatedMusic xml:id="ce001_m077" corresp="#ms002_m077" n="77" facs="#ms002_facs_40_r_2">
-                  <ptr target="ms002_m077.xml"/>
+                  <ptr target="ce001_m077.xml"/>
                </notatedMusic>
                <pb facs="#ms002_facs_41" n="41" xml:id="ce001_pb41" corresp="#ms002_pb41"/>
                <notatedMusic xml:id="ce001_m078" corresp="#ms002_m078" n="78" facs="#ms002_facs_41_r">
-                  <ptr target="ms002_m078.xml"/>
+                  <ptr target="ce001_m078.xml"/>
                </notatedMusic>
                Si avverta che nella prima nota del basso può cadere <notatedMusic xml:id="ce001_m079" corresp="#ms002_m079" n="79" type="inline" facs="#ms002_facs_41_r_1">
-                  <ptr target="ms002_m079.xml"/>
+                  <ptr target="ce001_m079.xml"/>
                </notatedMusic>. Ma questo nulla im<supplied>porta</supplied>
                nelli esempi suddetti, ne quali il modo cade sopra la seconda</p></div>
             <pb facs="#ms002_facs_42" n="42" xml:id="ce001_pb42" corresp="#ms002_pb42"/>
                <div xml:id="ce001_d10_sd2" corresp="#ms002_d10_sd2" n="2"><head xml:id="ce001_d10_sd2_h1" corresp="#ms002_d10_sd2_h1" n="1" facs="#ms002_facs_42_r">Finimenti di cadenze medie, ò sospese, non terminanti la cantilena nella
                prima nota</head>
             <p xml:id="ce001_d10_sd2_p1" corresp="#ms002_d10_sd2_p1" n="1"><notatedMusic xml:id="ce001_m080" corresp="#ms002_m080" n="80" facs="#ms002_facs_42_r_1">
-                  <ptr target="ms002_m080.xml"/>
+                  <ptr target="ce001_m080.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m081" corresp="#ms002_m081" n="81" facs="#ms002_facs_42_r_2 #ms002_facs_43_r">
-                  <ptr target="ms002_m081.xml"/>
+                  <ptr target="ce001_m081.xml"/>
                </notatedMusic></p>
                <pb facs="#ms002_facs_43" n="43" xml:id="ce001_pb43" corresp="#ms002_pb43"/>
                <p xml:id="ce001_d10_sd2_p2" corresp="#ms002_d10_sd2_p2" n="2">
@@ -2311,20 +2311,20 @@
                antecedente, non essendo capaci se non di un solo modo, ò due al
                più nella nota conseguente.
             <notatedMusic xml:id="ce001_m082" corresp="#ms002_m082" n="82" facs="#ms002_facs_43_r_2">
-                  <ptr target="ms002_m082.xml"/>
+                  <ptr target="ce001_m082.xml"/>
                </notatedMusic>
                In somma tutto ciò, che si è dato per esempio della prima nota, può
                servire in questi esempi per la prima nota, che apparecchia la
                dissonanza.
             <pb facs="#ms002_facs_44" n="44" xml:id="ce001_pb44" corresp="#ms002_pb44"/>
                <notatedMusic xml:id="ce001_m083" corresp="#ms002_m083" n="83" facs="#ms002_facs_44_r">
-                  <ptr target="ms002_m083.xml"/>
+                  <ptr target="ce001_m083.xml"/>
                </notatedMusic></p><p xml:id="ce001_d10_sd2_p3" corresp="#ms002_d10_sd2_p3" n="3">
                Vi sono poi altri modi naturali addattabili ad altri siti di cantilena,
                riflettendo in primo luoco, che il trillo di tre note è più modo, che trillo,
                quando si facciano sentire abastanza le due note aggiunte al trillo.
             <notatedMusic xml:id="ce001_m084" corresp="#ms002_m084" n="84" facs="#ms002_facs_44_r_2">
-                  <ptr target="ms002_m084.xml"/>
+                  <ptr target="ce001_m084.xml"/>
                </notatedMusic>
                Questo modo hà infinito
                uso, e luoco in prattica,
@@ -2332,7 +2332,7 @@
                basso è di cadenza. </p><p xml:id="ce001_d10_sd2_p4" corresp="#ms002_d10_sd2_p4" n="4"> 
                Nelle scale discendenti vi è un modo naturale di ottima espressione.
             <notatedMusic xml:id="ce001_m085" corresp="#ms002_m085" n="85" facs="#ms002_facs_44_r_5">
-                  <ptr target="ms002_m085.xml"/>
+                  <ptr target="ce001_m085.xml"/>
                </notatedMusic>
                Avvertendo di prolungare
                quanto si può la prima delle quatro
@@ -2341,45 +2341,45 @@
                E in caso di scale ascendenti, ò discendenti, il trillo delle tre note è
                sempre modo naturale.
             <notatedMusic xml:id="ce001_m086" corresp="#ms002_m086" n="86" facs="#ms002_facs_45_r_1">
-                  <ptr target="ms002_m086.xml"/>
+                  <ptr target="ce001_m086.xml"/>
                </notatedMusic></p><p xml:id="ce001_d10_sd2_p5" corresp="#ms002_d10_sd2_p5" n="5">
                Si avverta che quando il tempo della battuta è largo, ò andante che
                inclini al largo, alla ultima nota del trillo delle tre note si aggiunge
                l’appoggiatura con ottimo effetto
             <notatedMusic xml:id="ce001_m087" corresp="#ms002_m087" n="87" facs="#ms002_facs_45_r_3">
-                  <ptr target="ms002_m087.xml"/>
+                  <ptr target="ce001_m087.xml"/>
                </notatedMusic></p><p xml:id="ce001_d10_sd2_p6" corresp="#ms002_d10_sd2_p6" n="6">
                Vi è parim.ti altro sito convenient.mo per addattare un modo
                sopraccennato, quale consiste in tre note
             <notatedMusic xml:id="ce001_m088" corresp="#ms002_m088" n="88" facs="#ms002_facs_45_r_5">
-                  <ptr target="ms002_m088.xml"/>
+                  <ptr target="ce001_m088.xml"/>
                </notatedMusic>
                <pb facs="#ms002_facs_46" n="46" xml:id="ce001_pb46" corresp="#ms002_pb46"/>
                <notatedMusic xml:id="ce001_m089" corresp="#ms002_m089" n="89" facs="#ms002_facs_46_r">
-                  <ptr target="ms002_m089.xml"/>
+                  <ptr target="ce001_m089.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m090" corresp="#ms002_m090" n="90" facs="#ms002_facs_46_r_1">
-                  <ptr target="ms002_m090.xml"/>
+                  <ptr target="ce001_m090.xml"/>
                </notatedMusic>
                Ma si avverta che questo modo
                non si adopra mai al roverscio <notatedMusic xml:id="ce001_m091" corresp="#ms002_m091" n="91" type="inline" facs="#ms002_facs_46_r_5">
-                  <ptr target="ms002_m091.xml"/>
+                  <ptr target="ce001_m091.xml"/>
                </notatedMusic>, se
                non con le due note aggiunte
                <notatedMusic xml:id="ce001_m092" corresp="#ms002_m092" n="92" type="inline" facs="#ms002_facs_46_r_6">
-                  <ptr target="ms002_m092.xml"/>
+                  <ptr target="ce001_m092.xml"/>
                </notatedMusic>. Ma in tal caso il modo è
                lo stesso che si è scritto sopra, cioè
                <notatedMusic xml:id="ce001_m093" corresp="#ms002_m093" n="93" type="inline" facs="#ms002_facs_46_r_7">
-                  <ptr target="ms002_m093.xml"/>
+                  <ptr target="ce001_m093.xml"/>
                </notatedMusic>, perchè le due note <notatedMusic xml:id="ce001_m094" corresp="#ms002_m094" n="94" type="inline" facs="#ms002_facs_46_r_9">
-                  <ptr target="ms002_m094.xml"/>
+                  <ptr target="ce001_m094.xml"/>
                </notatedMusic>
                seben si trovino scritte brevissime,
                non si essequiscono mai come
                sono scritte; ma si prolunga la
                prima <notatedMusic xml:id="ce001_m095" corresp="#ms002_m095" n="95" type="inline" facs="#ms002_facs_46_r_8">
-                  <ptr target="ms002_m095.xml"/>
+                  <ptr target="ce001_m095.xml"/>
                </notatedMusic> e si abbreviano le
                scritte nella cantilena. </p><p xml:id="ce001_d10_sd2_p7" corresp="#ms002_d10_sd2_p7" n="7">
                Vi è un'altro modo espresso in note, come il mordente. Quando le
@@ -2387,19 +2387,19 @@
                Quando si sostenta la prima delle tre, diventa modo naturale.
                Segue l’esempio.
             <notatedMusic xml:id="ce001_m096" corresp="#ms002_m096" n="96" facs="#ms002_facs_46_r_4">
-                  <ptr target="ms002_m096.xml"/>
+                  <ptr target="ce001_m096.xml"/>
                </notatedMusic>
                <pb facs="#ms002_facs_47" n="47" xml:id="ce001_pb47" corresp="#ms002_pb47"/>
                <notatedMusic xml:id="ce001_m097" corresp="#ms002_m097" n="97" facs="#ms002_facs_47_r">
-                  <ptr target="ms002_m097.xml"/>
+                  <ptr target="ce001_m097.xml"/>
                </notatedMusic></p><p xml:id="ce001_d10_sd2_p8" corresp="#ms002_d10_sd2_p8" n="8">
                Parim.ti vi è un’altro modo aggiunto all’appoggiatura discendente, et è il
                seguente
             <notatedMusic xml:id="ce001_m098" corresp="#ms002_m098" n="98" facs="#ms002_facs_47_r_2">
-                  <ptr target="ms002_m098.xml"/>
+                  <ptr target="ce001_m098.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m099" corresp="#ms002_m099" n="99" facs="#ms002_facs_47_r_4">
-                  <ptr target="ms002_m099.xml"/>
+                  <ptr target="ce001_m099.xml"/>
                </notatedMusic>
                Vi è un'altro modo, in cui si cambia l’appoggiatura ascendente.
                Questo è il trillo preciso delle tre note,
@@ -2410,7 +2410,7 @@
             <pb facs="#ms002_facs_48" n="48" xml:id="ce001_pb48" corresp="#ms002_pb48"/>
                Sia un esempo.
             <notatedMusic xml:id="ce001_m100" corresp="#ms002_m100" n="100" facs="#ms002_facs_48_r">
-                  <ptr target="ms002_m100.xml"/>
+                  <ptr target="ce001_m100.xml"/>
                </notatedMusic>
                Ma non è adattabile, se non ascendendo. </p><p xml:id="ce001_d10_sd2_p10" corresp="#ms002_d10_sd2_p10" n="10">
                E si osservi, e noti distintam.te, che come si sono dati li esempi separati,
@@ -2457,16 +2457,16 @@
                lo saranno li modi artificiali dedotti dalle medesime.
                Li moti possibili del basso in due note di prima base sono li seguenti.
             <notatedMusic xml:id="ce001_m101" corresp="#ms002_m101" n="101" facs="#ms002_facs_50_r_2">
-                  <ptr target="ms002_m101.xml"/>
+                  <ptr target="ce001_m101.xml"/>
                </notatedMusic>
                De moti suddetti, li principali sono le due cadenze armonica, e aritmetica
                <notatedMusic xml:id="ce001_m102" corresp="#ms002_m102" n="102" type="inline" facs="#ms002_facs_50_r_4">
-                  <ptr target="ms002_m102.xml"/>
+                  <ptr target="ce001_m102.xml"/>
                </notatedMusic>, e il passaggio dalla quarta alla quinta del tuono
                <notatedMusic xml:id="ce001_m103" corresp="#ms002_m103" n="103" type="inline" facs="#ms002_facs_50_r_5">
-                  <ptr target="ms002_m103.xml"/>
+                  <ptr target="ce001_m103.xml"/>
                </notatedMusic>ò dalla sesta alla quinta del tuono <notatedMusic xml:id="ce001_m104" corresp="#ms002_m104" n="104" type="inline" facs="#ms002_facs_50_r_6">
-                  <ptr target="ms002_m104.xml"/>
+                  <ptr target="ce001_m104.xml"/>
                </notatedMusic> perchè
                con questi soli moti di basso si può formare senso compito nella
                cantilena. </p><p xml:id="ce001_d11_p5" corresp="#ms002_d11_p5" n="5">Di questi dunque si trattarà in primo luoco, e principalmente
@@ -2475,7 +2475,7 @@
                Data la cadenza armonica nel basso, la parte acuta potrà cantare sopra
                tal cadenza ne seguenti modi.
             <notatedMusic xml:id="ce001_m105" corresp="#ms002_m105" n="105" facs="#ms002_facs_50_r_12">
-                  <ptr target="ms002_m105.xml"/>
+                  <ptr target="ce001_m105.xml"/>
                </notatedMusic>
             </p>
          </div>
@@ -2493,14 +2493,14 @@
                L’essemplare in genere della cadenza armonica in parte acuta è il
                seguente.
             <notatedMusic xml:id="ce001_m106" corresp="#ms002_m106" n="106" facs="#ms002_facs_51_r_3">
-                  <ptr target="ms002_m106.xml"/>
+                  <ptr target="ce001_m106.xml"/>
                </notatedMusic>
                Da questo, ch’è il semplicissimo di tutti, procedono
                molti altri composti da più note, e da varietà
                di armonica nell’apparrecchio della cadenza; ma
                nelle due ultime note tutti si risolvono in questo.
             <notatedMusic xml:id="ce001_m107" corresp="#ms002_m107" n="107" facs="#ms002_facs_51_r_5">
-                  <ptr target="ms002_m107.xml"/>
+                  <ptr target="ce001_m107.xml"/>
                </notatedMusic></p><p xml:id="ce001_d12_p3" corresp="#ms002_d12_p3" n="3">
                Ma in sostanza si può ridurre la cadenza armonica ad esemplare nel
                basso in tre sole note di prima base, dalle quali si abbia idea
@@ -2510,25 +2510,25 @@
                </choice> parte acuta.
             <pb facs="#ms002_facs_52" n="52" xml:id="ce001_pb52" corresp="#ms002_pb52"/>
                <notatedMusic xml:id="ce001_m108" corresp="#ms002_m108" n="108" facs="#ms002_facs_52_r">
-                  <ptr target="ms002_m108.xml"/>
+                  <ptr target="ce001_m108.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m109" corresp="#ms002_m109" n="109" facs="#ms002_facs_52_r_1">
-                  <ptr target="ms002_m109.xml"/>
+                  <ptr target="ce001_m109.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m110" corresp="#ms002_m110" n="110" facs="#ms002_facs_52_r_2 #ms002_facs_53_r">
-                  <ptr target="ms002_m110.xml"/>
+                  <ptr target="ce001_m110.xml"/>
                </notatedMusic></p><p xml:id="ce001_d12_p4" corresp="#ms002_d12_p4" n="4">
                <pb facs="#ms002_facs_53" n="53" xml:id="ce001_pb53" corresp="#ms002_pb53"/>
                Tutti questi modi di cadenza servono parim.ti al basso <notatedMusic xml:id="ce001_m111" corresp="#ms002_m111" n="111" type="inline" facs="#ms002_facs_53_r_2">
-                  <ptr target="ms002_m111.xml"/>
+                  <ptr target="ce001_m111.xml"/>
                </notatedMusic>
                e al basso <notatedMusic xml:id="ce001_m112" corresp="#ms002_m112" n="112" type="inline" facs="#ms002_facs_53_r_4">
-                  <ptr target="ms002_m112.xml"/>
+                  <ptr target="ce001_m112.xml"/>
                </notatedMusic> avertendo, che per il più tali bassi, che
                qui si espongono semplicissimi per li esempi assegnati, nelle
                compositioni poi si trovano composti di crome nel modo seguente.
             <notatedMusic xml:id="ce001_m113" corresp="#ms002_m113" n="113" facs="#ms002_facs_53_r_6">
-                  <ptr target="ms002_m113.xml"/>
+                  <ptr target="ce001_m113.xml"/>
                </notatedMusic></p><p xml:id="ce001_d12_p5" corresp="#ms002_d12_p5" n="5">
                Questa diversità nulla importa per li modi soprassegnati di cadenze,
                quali si potranno usare e sopra il basso semplice, e sopra il composto:
@@ -2536,30 +2536,30 @@
                ottave tra l’acuto, e il grave.
                Seguono altri esempi
             <notatedMusic xml:id="ce001_m114" corresp="#ms002_m114" n="114" facs="#ms002_facs_53_r_8">
-                  <ptr target="ms002_m114.xml"/>
+                  <ptr target="ce001_m114.xml"/>
                </notatedMusic>
                <pb facs="#ms002_facs_54" n="54" xml:id="ce001_pb54" corresp="#ms002_pb54"/>
                <notatedMusic xml:id="ce001_m115" corresp="#ms002_m115" n="115" facs="#ms002_facs_54_r">
-                  <ptr target="ms002_m115.xml"/>
+                  <ptr target="ce001_m115.xml"/>
                </notatedMusic></p><p xml:id="ce001_d12_p6" corresp="#ms002_d12_p6" n="6">
                Altre cadenze sono ancora più composte a cagione di maggior moto
                delle prime basi nel basso.
             <notatedMusic xml:id="ce001_m116" corresp="#ms002_m116" n="116" facs="#ms002_facs_54_r_2">
-                  <ptr target="ms002_m116.xml"/>
+                  <ptr target="ce001_m116.xml"/>
                </notatedMusic>
                <pb facs="#ms002_facs_55" n="55" xml:id="ce001_pb55" corresp="#ms002_pb55"/>
                <notatedMusic xml:id="ce001_m117" corresp="#ms002_m117" n="117" facs="#ms002_facs_55_r">
-                  <ptr target="ms002_m117.xml"/>
+                  <ptr target="ce001_m117.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m118" corresp="#ms002_m118" n="118" facs="#ms002_facs_55_r_1">
-                  <ptr target="ms002_m118.xml"/>
+                  <ptr target="ce001_m118.xml"/>
                </notatedMusic>
                <pb facs="#ms002_facs_56" n="56" xml:id="ce001_pb56" corresp="#ms002_pb56"/>
                <notatedMusic xml:id="ce001_m119" corresp="#ms002_m119" n="119" facs="#ms002_facs_56_r">
-                  <ptr target="ms002_m119.xml"/>
+                  <ptr target="ce001_m119.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m120" corresp="#ms002_m120" n="120" facs="#ms002_facs_56_r_1">
-                  <ptr target="ms002_m120.xml"/>
+                  <ptr target="ce001_m120.xml"/>
                </notatedMusic>
                Questa cadenza è composta nelle due prime note
                dalle due cadenze 1. 2., cioè la prima nota è
@@ -2569,7 +2569,7 @@
                della nota della prima cadenza, si avrà ciò che si vuole in quasi
                infinite maniere.
             <notatedMusic xml:id="ce001_m121" corresp="#ms002_m121" n="121" facs="#ms002_facs_56_r_3 #ms002_facs_57_r">
-                  <ptr target="ms002_m121.xml"/>
+                  <ptr target="ce001_m121.xml"/>
                </notatedMusic></p><p xml:id="ce001_d12_p7" corresp="#ms002_d12_p7" n="7">
                <pb facs="#ms002_facs_57" n="57" xml:id="ce001_pb57" corresp="#ms002_pb57"/>
                Li esempi sopraposti sono per la maggior parte dedotti immediatamente
@@ -2579,7 +2579,7 @@
                de due modi nelle due cadenze, come ognuno con facilità
                può fare da se la prova.
             <notatedMusic xml:id="ce001_m122" corresp="#ms002_m122" n="122" facs="#ms002_facs_57_r_2 #ms002_facs_58_r">
-                  <ptr target="ms002_m122.xml"/>
+                  <ptr target="ce001_m122.xml"/>
                </notatedMusic>
                <pb facs="#ms002_facs_58" n="58" xml:id="ce001_pb58" corresp="#ms002_pb58"/>
                Parim.ti questa cadenza si può comporre con li modi della prima nota
@@ -2587,7 +2587,7 @@
                cadenza seconda. </p><p xml:id="ce001_d12_p8" corresp="#ms002_d12_p8" n="8">
                Si può dare inoltre, che il basso si trovi in altro modo, come per esempio.
             <notatedMusic xml:id="ce001_m123" corresp="#ms002_m123" n="123" facs="#ms002_facs_58_r_3">
-                  <ptr target="ms002_m123.xml"/>
+                  <ptr target="ce001_m123.xml"/>
                </notatedMusic>
                Ma in tal caso si avrà la regola
                facile per trovar infiniti modi
@@ -2596,15 +2596,15 @@
                prima nota, e convertendo la prima nella seconda. Pure si
                danno pochi esempi indipendenti dalla suddetta traspositione.
             <notatedMusic xml:id="ce001_m124" corresp="#ms002_m124" n="124" facs="#ms002_facs_58_r_5">
-                  <ptr target="ms002_m124.xml"/>
+                  <ptr target="ce001_m124.xml"/>
                </notatedMusic>
                <pb facs="#ms002_facs_59" n="59" xml:id="ce001_pb59" corresp="#ms002_pb59"/>
                <notatedMusic xml:id="ce001_m125" corresp="#ms002_m125" n="125" facs="#ms002_facs_59_r">
-                  <ptr target="ms002_m125.xml"/>
+                  <ptr target="ce001_m125.xml"/>
                </notatedMusic>
                Il rimanente si formi nel modo suddetto.
             <notatedMusic xml:id="ce001_m126" corresp="#ms002_m126" n="126" facs="#ms002_facs_59_r_2">
-                  <ptr target="ms002_m126.xml"/>
+                  <ptr target="ce001_m126.xml"/>
                </notatedMusic></p><p xml:id="ce001_d12_p9" corresp="#ms002_d12_p9" n="9">
                Quando sopra questi modi di cadenze si faccia osservatione, e studio, e
                di questi modi si acquisti possesso prattico, succederà, che si
@@ -2659,13 +2659,13 @@
                Cantante, nella prima delle <del>delle</del> due note constituenti la
                cadenza finale non può fermarsi; ma solamente in una di queste tre
                note <notatedMusic xml:id="ce001_m127" corresp="#ms002_m127" n="127" type="inline" facs="#ms002_facs_62_r_1">
-                  <ptr target="ms002_m127.xml"/>
+                  <ptr target="ce001_m127.xml"/>
                </notatedMusic> non perchè alcuna di queste sia
                la prima delle due note
                constituenti la cadenza finale, quali
                due note sono sempre queste;
                <notatedMusic xml:id="ce001_m128" corresp="#ms002_m128" n="128" type="inline" facs="#ms002_facs_62_r_3">
-                  <ptr target="ms002_m128.xml"/>
+                  <ptr target="ce001_m128.xml"/>
                </notatedMusic> ma perchè
                dovendo fermarsi per apparecchiare apunto questa cadenza,
                non può, ne deve fermarsi nella prima delle due suddette; ma
@@ -2673,13 +2673,13 @@
                con modi artificiali di buon gusto. </p><p xml:id="ce001_d13_p5" corresp="#ms002_d13_p5" n="5">Indi ne viene, che la prima
                nota ferma non potendo mai essere la nota del trillo (ch’è la
                prima delle due) <notatedMusic xml:id="ce001_m129" corresp="#ms002_m129" n="129" type="inline" facs="#ms002_facs_62_r_7">
-                  <ptr target="ms002_m129.xml"/>
+                  <ptr target="ce001_m129.xml"/>
                </notatedMusic> dovrà per forza esser una nota
                dedotta dall’armonia di Csolfaut, ch’è la nota del tuono
                principale. Ma dato per basso Csolfaut, è impossibile, che in acuto
                si trovino sopra tal basso, se non le tre note suddette, cioè
                <notatedMusic xml:id="ce001_m130" corresp="#ms002_m130" n="130" type="inline" facs="#ms002_facs_62_r_2">
-                  <ptr target="ms002_m130.xml"/>
+                  <ptr target="ce001_m130.xml"/>
                </notatedMusic>; dunque si conclude necessariam.te, che il
                cantante, ò suonatore non potrà, ne dovrà fermarsi mai in
                altre note, se non nelle tre suddette. </p><p xml:id="ce001_d13_p6" corresp="#ms002_d13_p6" n="6">
@@ -2695,86 +2695,86 @@
                cui si possa vedere la possibilità di altri esempi quasi infiniti. </p><p xml:id="ce001_d13_p7" corresp="#ms002_d13_p7" n="7">
                Sia dunque la prima nota ferma della parte principale Csolfaut.
             <notatedMusic xml:id="ce001_m131" corresp="#ms002_m131" n="131" facs="#ms002_facs_63_r_2">
-                  <ptr target="ms002_m131.xml"/>
+                  <ptr target="ce001_m131.xml"/>
                </notatedMusic>
                Potrà il Cantante, ò Suonatore portarsi alla ottava ascendente <notatedMusic xml:id="ce001_m132" corresp="#ms002_m132" n="132" type="missing"/>per
                scala con modo artificiale di buon gusto, di cui si danno l’infrascritti esempi.
             <notatedMusic xml:id="ce001_m133" corresp="#ms002_m133" n="133" facs="#ms002_facs_63_r_4">
-                  <ptr target="ms002_m133.xml"/>
+                  <ptr target="ce001_m133.xml"/>
                </notatedMusic>
                Questo modo è esprimibile come
                canto, e come suono. Come canto,
                tutto legato; come suono, tutto sciolto.
             <notatedMusic xml:id="ce001_m134" corresp="#ms002_m134" n="134" facs="#ms002_facs_63_r_6">
-                  <ptr target="ms002_m134.xml"/>
+                  <ptr target="ce001_m134.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m135" corresp="#ms002_m135" n="135" facs="#ms002_facs_63_r_7">
-                  <ptr target="ms002_m135.xml"/>
+                  <ptr target="ce001_m135.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m136" corresp="#ms002_m136" n="136" facs="#ms002_facs_63_r_8">
-                  <ptr target="ms002_m136.xml"/>
+                  <ptr target="ce001_m136.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m137" corresp="#ms002_m137" n="137" facs="#ms002_facs_63_r_9">
-                  <ptr target="ms002_m137.xml"/>
+                  <ptr target="ce001_m137.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m138" corresp="#ms002_m138" n="138" facs="#ms002_facs_63_r_10">
-                  <ptr target="ms002_m138.xml"/>
+                  <ptr target="ce001_m138.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m139" corresp="#ms002_m139" n="139" facs="#ms002_facs_63_r_11">
-                  <ptr target="ms002_m139.xml"/>
+                  <ptr target="ce001_m139.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m140" corresp="#ms002_m140" n="140" facs="#ms002_facs_63_r_12">
-                  <ptr target="ms002_m140.xml"/>
+                  <ptr target="ce001_m140.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m141" corresp="#ms002_m141" n="141" facs="#ms002_facs_63_r_13">
-                  <ptr target="ms002_m141.xml"/>
+                  <ptr target="ce001_m141.xml"/>
                </notatedMusic></p><p xml:id="ce001_d13_p8" corresp="#ms002_d13_p8" n="8">
                <pb facs="#ms002_facs_64" n="64" xml:id="ce001_pb64" corresp="#ms002_pb64"/>
                Potrà parimenti portarsi alla ottava per le note dell’accompagnamento, quali
                sono <notatedMusic xml:id="ce001_m142" corresp="#ms002_m142" n="142" type="inline" facs="#ms002_facs_64_r_14">
-                  <ptr target="ms002_m142.xml"/>
+                  <ptr target="ce001_m142.xml"/>
                </notatedMusic>, e potrà passare la ottava sino alla decima
                come qui
             <notatedMusic xml:id="ce001_m143" corresp="#ms002_m143" n="143" facs="#ms002_facs_64_r_1">
-                  <ptr target="ms002_m143.xml"/>
+                  <ptr target="ce001_m143.xml"/>
                </notatedMusic>
                Li modi artificiali di queste note dell’accompagnamento possono essere
                infiniti si darà l’esempio di pochi.<notatedMusic xml:id="ce001_m144" corresp="#ms002_m144" n="144" type="missing"/>
                <notatedMusic xml:id="ce001_m145" corresp="#ms002_m145" n="145" type="missing"/>
                <notatedMusic xml:id="ce001_m146" corresp="#ms002_m146" n="146" facs="#ms002_facs_64_r_4">
-                  <ptr target="ms002_m146.xml"/>
+                  <ptr target="ce001_m146.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m147" corresp="#ms002_m147" n="147" facs="#ms002_facs_64_r_9">
-                  <ptr target="ms002_m147.xml"/>
+                  <ptr target="ce001_m147.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m148" corresp="#ms002_m148" n="148" facs="#ms002_facs_64_r_5">
-                  <ptr target="ms002_m148.xml"/>
+                  <ptr target="ce001_m148.xml"/>
                </notatedMusic>
                Lo stesso sino in
             <notatedMusic xml:id="ce001_m149" corresp="#ms002_m149" n="149" facs="#ms002_facs_64_r_15">
-                  <ptr target="ms002_m149.xml"/>
+                  <ptr target="ce001_m149.xml"/>
                </notatedMusic>
                se si vuole
             <notatedMusic xml:id="ce001_m150" corresp="#ms002_m150" n="150" facs="#ms002_facs_64_r_6">
-                  <ptr target="ms002_m150.xml"/>
+                  <ptr target="ce001_m150.xml"/>
                </notatedMusic>
                Lo stesso sino in
             <notatedMusic xml:id="ce001_m151" corresp="#ms002_m151" n="151" facs="#ms002_facs_64_r_17">
-                  <ptr target="ms002_m151.xml"/>
+                  <ptr target="ce001_m151.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m152" corresp="#ms002_m152" n="152" facs="#ms002_facs_64_r_7">
-                  <ptr target="ms002_m152.xml"/>
+                  <ptr target="ce001_m152.xml"/>
                </notatedMusic>
                Lo stesso sino in
             <notatedMusic xml:id="ce001_m153" corresp="#ms002_m153" n="153" facs="#ms002_facs_64_r_18">
-                  <ptr target="ms002_m153.xml"/>
+                  <ptr target="ce001_m153.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m154" corresp="#ms002_m154" n="154" facs="#ms002_facs_64_r_8">
-                  <ptr target="ms002_m154.xml"/>
+                  <ptr target="ce001_m154.xml"/>
                </notatedMusic>
                Lo stesso sino in
             <notatedMusic xml:id="ce001_m155" corresp="#ms002_m155" n="155" facs="#ms002_facs_64_r_19">
-                  <ptr target="ms002_m155.xml"/>
+                  <ptr target="ce001_m155.xml"/>
                </notatedMusic>
                &amp; </p><p xml:id="ce001_d13_p9" corresp="#ms002_d13_p9" n="9">
                Fatta nota ferma ò in C, quando sia scala, ò in C, e in E, quando
@@ -2784,34 +2784,34 @@
                dallo stesso G si passa con altri modi artificiali alla nota del trillo, che
                apparrecchia la cadenza. Lo scheletro è il seguente.
             <notatedMusic xml:id="ce001_m156" corresp="#ms002_m156" n="156" facs="#ms002_facs_65_r_1">
-                  <ptr target="ms002_m156.xml"/>
+                  <ptr target="ce001_m156.xml"/>
                </notatedMusic>
                ; poi modo, che porta ascendento ò in C, o in E
             <notatedMusic xml:id="ce001_m157" corresp="#ms002_m157" n="157" facs="#ms002_facs_65_r_3">
-                  <ptr target="ms002_m157.xml"/>
+                  <ptr target="ce001_m157.xml"/>
                </notatedMusic>
                ; poi modo, che porta in G [esempio]; e questo può esser composto
                di ascesa, e discesa. Finalm.te modo, che porta nella nota del
                trillo della cadenza 
             <notatedMusic xml:id="ce001_m158" corresp="#ms002_m158" n="158" facs="#ms002_facs_65_r_6">
-                  <ptr target="ms002_m158.xml"/>
+                  <ptr target="ce001_m158.xml"/>
                </notatedMusic></p><p xml:id="ce001_d13_p10" corresp="#ms002_d13_p10" n="10">
                Lo scheletro sopraccenato è questo
             <notatedMusic xml:id="ce001_m159" corresp="#ms002_m159" n="159" facs="#ms002_facs_65_r_7">
-                  <ptr target="ms002_m159.xml"/>
+                  <ptr target="ce001_m159.xml"/>
                </notatedMusic>
                Parimenti vi sono altri scheletri,
                come
             <notatedMusic xml:id="ce001_m160" corresp="#ms002_m160" n="160" facs="#ms002_facs_65_r_9">
-                  <ptr target="ms002_m160.xml"/>
+                  <ptr target="ce001_m160.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m161" corresp="#ms002_m161" n="161" facs="#ms002_facs_65_r_10">
-                  <ptr target="ms002_m161.xml"/>
+                  <ptr target="ce001_m161.xml"/>
                </notatedMusic></p><p xml:id="ce001_d13_p11" corresp="#ms002_d13_p11" n="11">
                Se la prima nota ferma sarà in E, potrà il modo passare in C,
                come l’antecedente, e in E; indi, come l’antecedente.
             <notatedMusic xml:id="ce001_m162" corresp="#ms002_m162" n="162" facs="#ms002_facs_65_r_12">
-                  <ptr target="ms002_m162.xml"/>
+                  <ptr target="ce001_m162.xml"/>
                </notatedMusic></p><p xml:id="ce001_d13_p12" corresp="#ms002_d13_p12" n="12">
                Se la prima nota ferma sarà in G, oltre il poter passare in C, e in
                E, come li antecedenti (cominciando sempre il modo ò dal C
@@ -2819,35 +2819,35 @@
             <pb facs="#ms002_facs_66" n="66" xml:id="ce001_pb66" corresp="#ms002_pb66"/>
                allo scheletro terzo; di che si danno esempi.
             <notatedMusic xml:id="ce001_m163" corresp="#ms002_m163" n="163" facs="#ms002_facs_66_r_1">
-                  <ptr target="ms002_m163.xml"/>
+                  <ptr target="ce001_m163.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m164" corresp="#ms002_m164" n="164" facs="#ms002_facs_66_r_2">
-                  <ptr target="ms002_m164.xml"/>
+                  <ptr target="ce001_m164.xml"/>
                </notatedMusic>
                eguale allo scheletro terzo. </p><p xml:id="ce001_d13_p13" corresp="#ms002_d13_p13" n="13">
             <pb facs="#ms002_facs_67" n="67" xml:id="ce001_pb67" corresp="#ms002_pb67"/>
                Esempi di cadenze fatte ad arbitrio;<!-- in bold -->
             <notatedMusic xml:id="ce001_m165" corresp="#ms002_m165" n="165" facs="#ms002_facs_67_r_1">
-                  <ptr target="ms002_m165.xml"/>
+                  <ptr target="ce001_m165.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m166" corresp="#ms002_m166" n="166" facs="#ms002_facs_67_r_2">
-                  <ptr target="ms002_m166.xml"/>
+                  <ptr target="ce001_m166.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m167" corresp="#ms002_m167" n="167" facs="#ms002_facs_67_r_3">
-                  <ptr target="ms002_m167.xml"/>
+                  <ptr target="ce001_m167.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m168" corresp="#ms002_m168" n="168" facs="#ms002_facs_67_r_4">
-                  <ptr target="ms002_m168.xml"/>
+                  <ptr target="ce001_m168.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m169" corresp="#ms002_m169" n="169" facs="#ms002_facs_67_r_5">
-                  <ptr target="ms002_m169.xml"/>
+                  <ptr target="ce001_m169.xml"/>
                </notatedMusic>
                <pb facs="#ms002_facs_68" n="68" xml:id="ce001_pb68" corresp="#ms002_pb68"/>
                <notatedMusic xml:id="ce001_m170" corresp="#ms002_m170" n="170" facs="#ms002_facs_68_r">
-                  <ptr target="ms002_m170.xml"/>
+                  <ptr target="ce001_m170.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m171" corresp="#ms002_m171" n="171" facs="#ms002_facs_68_r_1">
-                  <ptr target="ms002_m171.xml"/>
+                  <ptr target="ce001_m171.xml"/>
                </notatedMusic>
             </p>
          </div>
@@ -2857,10 +2857,10 @@
             <p xml:id="ce001_d14_p1" corresp="#ms002_d14_p1" n="1">
                <pb facs="#ms002_facs_69" n="69" xml:id="ce001_pb69" corresp="#ms002_pb69"/>
                <notatedMusic xml:id="ce001_m172" corresp="#ms002_m172" n="172" facs="#ms002_facs_69_r_1">
-                  <ptr target="ms002_m172.xml"/>
+                  <ptr target="ce001_m172.xml"/>
                </notatedMusic>
                <notatedMusic xml:id="ce001_m173" corresp="#ms002_m173" n="173" facs="#ms002_facs_69_r_2">
-                  <ptr target="ms002_m173.xml"/>
+                  <ptr target="ce001_m173.xml"/>
                </notatedMusic>
                <pb facs="#ms002_facs_70" n="70" xml:id="ce001_pb70" corresp="#ms002_pb70"/>
                <pb facs="#ms002_facs_71" n="71" xml:id="ce001_pb71" corresp="#ms002_pb71"/>
