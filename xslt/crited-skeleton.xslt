@@ -54,6 +54,12 @@
               reduced to exactly ONE line break followed by the indentation
               of the last line. Thus empty lines disappear while the normal
               line-by-line layout of the text is preserved.
+       e) notatedMusic/ptr/@target: the file name of the music encoding
+          gets the new prefix as well (same rule as for @xml:id):
+            target="ms002_m001.xml"  ->  target="ce001_m001.xml"
+          Every pointer of the (space-separated) list is handled
+          separately, a leading "#" is kept; pointers without the old
+          prefix are copied unchanged.
           All other attributes (@facs, @n, @rend ...) and all other
           elements (pb, notatedMusic, w, choice, g ...) are kept.
 
@@ -83,6 +89,7 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:tei="http://www.tei-c.org/ns/1.0"
     xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:f="urn:local:crited-skeleton:functions"
     exclude-result-prefixes="#all">
 
     <!-- ====================================================================
@@ -134,6 +141,14 @@
     <!-- Placeholder for lb[@break='no'] while text is merged (step 3d).
          A Unicode private-use character that never occurs in the text. -->
     <xsl:variable name="joinMark" as="xs:string" select="'&#xE000;'"/>
+
+
+    <!-- Escapes regex special characters, so that a prefix such as
+         "ms002." can safely be used inside a regular expression. -->
+    <xsl:function name="f:regex-escape" as="xs:string">
+        <xsl:param name="s" as="xs:string"/>
+        <xsl:sequence select="replace($s, '([.\\?*+{}()\[\]^$|-])', '\\$1')"/>
+    </xsl:function>
 
 
     <!-- ====================================================================
@@ -262,6 +277,20 @@
     <!-- An existing @corresp is already written by the @xml:id template
          above; copy it here only if the element has no @xml:id. -->
     <xsl:template match="@corresp[../@xml:id]" mode="edition"/>
+
+    <!-- 3e: Music files referenced from notatedMusic/ptr get the edition
+         prefix as well:  target="ms002_m001.xml" -> target="ce001_m001.xml"
+         The attribute is handled pointer by pointer (TEI allows a
+         space-separated list); a leading "#" is kept. Pointers that do not
+         start with the old prefix are copied unchanged. -->
+    <xsl:template match="tei:notatedMusic/tei:ptr/@target" mode="edition">
+        <xsl:attribute name="target" select="string-join(
+            for $ptr in tokenize(normalize-space(.), ' ')
+            return replace($ptr,
+                           concat('^(#?)', f:regex-escape($oldPrefix)),
+                           concat('$1', replace($targetPrefix, '\$', '\\\$'))),
+            ' ')"/>
+    </xsl:template>
 
     <!-- All other attributes are copied unchanged. -->
     <xsl:template match="@*" mode="edition">
